@@ -1,0 +1,2158 @@
+/* screen - dashboard-new-user */
+
+.dashboard-new-user {
+  background-color: var(--white);
+  border: 1px none;
+  height: 1806px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.dashboard-new-user .union-yFUyoX {
+  background-color: transparent;
+  height: 1358px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+
+.dashboard-new-user .logo-yFUyoX {
+  background-color: transparent;
+  border: 1px none;
+  cursor: pointer;
+  height: 65px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 140px;
+}
+
+.dashboard-new-user .logo-fxN1hb {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.dashboard-new-user .blog-yFUyoX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.dashboard-new-user .faq-yFUyoX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 505px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.dashboard-new-user .icon-settings-yFUyoX {
+  background-color: transparent;
+  height: 26px;
+  left: 1198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 25px;
+}
+
+.dashboard-new-user .vector-yFUyoX {
+  background-color: transparent;
+  height: 55px;
+  left: 1268px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 55px;
+}
+
+.dashboard-new-user .dashboard-yFUyoX {
+  background-color: transparent;
+  height: auto;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 167px;
+  width: auto;
+}
+
+.dashboard-new-user .hello-yFUyoX {
+  background-color: transparent;
+  color: var(--orangedark-3);
+  font-family: var(--font-family-satoshi-black);
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 144px;
+  width: auto;
+}
+
+.dashboard-new-user .september-2022-yFUyoX {
+  background-color: transparent;
+  height: auto;
+  left: 1001px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 222px;
+  width: auto;
+}
+
+.dashboard-new-user .james-naito-yFUyoX {
+  background-color: transparent;
+  height: auto;
+  left: 525px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 135px;
+  width: auto;
+}
+
+.dashboard-new-user .rectangle-13-yFUyoX {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 9px #00000054;
+  height: 402px;
+  left: 907px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 283px;
+  width: 433px;
+}
+
+.dashboard-new-user .calendar-2022-264-20-yFUyoX {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 367px;
+  left: 919px;
+  position: absolute;
+  top: 295px;
+  width: 407px;
+}
+
+.dashboard-new-user .grid-MQdoCi {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard-new-user .line-Z6fbET {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-SBNRtz {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-0UgrAb {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 200;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-suUdLc {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-HiZg0W {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-Jw3nKx {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-nxktQ4 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-DrzN4p {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-8zOuyX {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-7xZreC {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-Vaz9ce {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-5jUhOi {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-Ez46Mc {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 11px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-IqyBpG {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-G10HYz {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-HSsKfw {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-bvY2hy {
+  background-color: transparent;
+  color: var(--sealight-2);
+  font-family: var(--font-family-inter);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .line-Uq1IuS {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-0Ux4BT {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-2IqSKi {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-ajZmax {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-uxqyxE {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-Py3xRX {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-7zV1oh {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-6ltpgU {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-7Rdw3P {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-Ygmvd1 {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-ZNoGGZ {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 6px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-ARvsZW {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-ZomDZl {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-fl7WWA {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-2HMKok {
+  background-color: transparent;
+  color: #b4b3b3;
+  font-family: var(--font-family-inter);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 8px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-UEsQdH {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-yig0s9 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 8px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .line-BN9XnT {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-HpqAvx {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-uNphYR {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-3KslRz {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-OzJEYw {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-p9OSKC {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-OS4xoU {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-CusvLc {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-njhZLh {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-xlqO7a {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-tHpjng {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-tWcm1L {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-MpRxwV {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-hgi9Iu {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-SvVyvt {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-CLs2mL {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-BERLZd {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 11px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .line-frlv0v {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-kpHtoT {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-SiZFNU {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-KAZmrM {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-mwdBwP {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-uVvSXq {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-JfNftT {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-SwS8dU {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-ZPW2rH {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-PjGEox {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-e3bVb1 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-VM6Krt {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-vKeQ16 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-mlBJgA {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-AO67CP {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-ucOa5h {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-Sfbsex {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .line-SAvwbU {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-JK5PAq {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-xGYvLt {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-enlPxj {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-eNs0dl {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-xssHbd {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-PrBwC3 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-Pjrdaq {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-KIsObB {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-4DXNQQ {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-NdkxKx {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-CT8xPX {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-nF3Ztm {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-yxxnOL {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-JNgxbx {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-8XTRdW {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-5KAfAd {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .line-rbpStP {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-p8Fxrn {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-vuE6oZ {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-lUcxlN {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-PCkekE {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-DFwWXW {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-vlx5Bz {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-JU7ML0 {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-q7Dm8K {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-9xZbLr {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-ZItxYn {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-RZryto {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-xvmQ0Y {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-oNa639 {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-oSMuwx {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 6px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-Llzvsu {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-5q6TRO {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .line-UpcbJh {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-6Bw1J4 {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-4ZNBPm {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-62x7xQ {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-3igUuv {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 8px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-BOuGAV {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-uxNukJ {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 8px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-XHqEYw {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-pDbDhu {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-J8UsWS {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-sqywR2 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-SAd5h4 {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-WtOh7w {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-x4ZVOs {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-xz6hR7 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .calendar-2022-264-atoms-items-gFvfnT {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-new-user .text-6V5yJ0 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-new-user .devices-yFUyoX {
+  background-color: transparent;
+  height: 387px;
+  left: 379px;
+  position: absolute;
+  top: 298px;
+  width: 464px;
+}
+
+.dashboard-new-user .devices-sSdzWF {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.dashboard-new-user .rectangle-12-sSdzWF {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 9px #00000054;
+  height: 310px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 77px;
+  width: 462px;
+}
+
+.dashboard-new-user .add-sSdzWF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 143px;
+  left: 124px;
+  position: absolute;
+  top: 161px;
+  width: 216px;
+}
+
+.dashboard-new-user .lets-set-up-vSMOug {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.dashboard-new-user .rectangle-14-vSMOug {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 59px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 84px;
+  width: 193px;
+}
+
+.dashboard-new-user .group-2-vSMOug {
+  background-color: transparent;
+  height: 54px;
+  left: 45px;
+  position: absolute;
+  top: 87px;
+  width: 128px;
+}
+
+.dashboard-new-user .add-2ek05G {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.dashboard-new-user .vector-2ek05G {
+  background-color: transparent;
+  height: 35px;
+  left: 91px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 35px;
+}
+
+.dashboard-new-user .tasks-yFUyoX {
+  background-color: transparent;
+  height: 387px;
+  left: 380px;
+  position: absolute;
+  top: 827px;
+  width: 464px;
+}
+
+.dashboard-new-user .todays-tasks-AZNrjJ {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.dashboard-new-user .rectangle-16-AZNrjJ {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 9px #00000054;
+  height: 310px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 77px;
+  width: 462px;
+}
+
+.dashboard-new-user .add-AZNrjJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 143px;
+  left: 124px;
+  position: absolute;
+  top: 161px;
+  width: 216px;
+}
+
+.dashboard-new-user .lets-set-up-y0a60E {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.dashboard-new-user .rectangle-14-y0a60E {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 59px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 84px;
+  width: 193px;
+}
+
+.dashboard-new-user .group-2-y0a60E {
+  background-color: transparent;
+  height: 54px;
+  left: 45px;
+  position: absolute;
+  top: 87px;
+  width: 128px;
+}
+
+.dashboard-new-user .add-4BbB4X {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.dashboard-new-user .vector-4BbB4X {
+  background-color: transparent;
+  height: 35px;
+  left: 91px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 35px;
+}
+
+.dashboard-new-user .schedules-yFUyoX {
+  background-color: transparent;
+  height: 387px;
+  left: 878px;
+  position: absolute;
+  top: 827px;
+  width: 464px;
+}
+
+.dashboard-new-user .todays-schedule-L80jtJ {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.dashboard-new-user .rectangle-17-L80jtJ {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 9px #00000054;
+  height: 310px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 77px;
+  width: 462px;
+}
+
+.dashboard-new-user .add-L80jtJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 143px;
+  left: 124px;
+  position: absolute;
+  top: 161px;
+  width: 216px;
+}
+
+.dashboard-new-user .lets-set-up-rPqZmh {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.dashboard-new-user .rectangle-14-rPqZmh {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 59px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 84px;
+  width: 193px;
+}
+
+.dashboard-new-user .group-2-rPqZmh {
+  background-color: transparent;
+  height: 54px;
+  left: 45px;
+  position: absolute;
+  top: 87px;
+  width: 128px;
+}
+
+.dashboard-new-user .add-1wwckN {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.dashboard-new-user .vector-1wwckN {
+  background-color: transparent;
+  height: 35px;
+  left: 91px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 35px;
+}
+
+.dashboard-new-user .footer-yFUyoX {
+  background-color: transparent;
+  border: 1px none;
+  height: 421px;
+  left: 0px;
+  position: absolute;
+  top: 1385px;
+  width: 1500px;
+}
+
+.dashboard-new-user .rectangle-4-iUAPlC {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  box-shadow: 0px -4px 7px 2px #00000040;
+  height: 421px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.dashboard-new-user .logo-iUAPlC {
+  background-color: transparent;
+  border: 1px none;
+  height: 65px;
+  left: 188px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 143px;
+  width: 140px;
+}
+
+.dashboard-new-user .logo-7cxpoE {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.dashboard-new-user .save-resources-with-our-web-app-iUAPlC {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 165px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  width: auto;
+}
+
+.dashboard-new-user .how-it-works-iUAPlC {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-new-user .about-us-iUAPlC {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-new-user .blog-iUAPlC {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 175px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-new-user .privacy-iUAPlC {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 215px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-new-user .terms-of-service-iUAPlC {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-new-user .copyright2022-our-ap-iUAPlC {
+  background-color: transparent;
+  height: auto;
+  left: 978px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-new-user .templates-iUAPlC {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 172px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-new-user .features-iUAPlC {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-new-user .company-iUAPlC {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-new-user .icon-twitter-iUAPlC {
+  background-color: transparent;
+  height: 36px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 248px;
+  width: 36px;
+}
+
+.dashboard-new-user .icon-instagram-iUAPlC {
+  background-color: transparent;
+  height: 33px;
+  left: 290px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 252px;
+  width: 33px;
+}
+
+.dashboard-new-user .youtube-iUAPlC {
+  background-color: transparent;
+  height: 29px;
+  left: 348px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 253px;
+  width: 41px;
+}
+
+.dashboard-new-user .icon-facebook-iUAPlC {
+  background-color: transparent;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 36px;
+}
+
+.dashboard-new-user .my-devices-yFUyoX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 75px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 313px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.dashboard-new-user .my-devices-yFUyoX:hover {
+  color: #100701
+}
+
+.dashboard-new-user .schedule-yFUyoX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 92px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 432px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.dashboard-new-user .schedule-yFUyoX:hover {
+  color: #100701
+}
+
+.dashboard-new-user .tasks-wxXCRp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 551px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.dashboard-new-user .tasks-wxXCRp:hover {
+  color: #100701
+}
+
+.dashboard-new-user .progress-yFUyoX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 670px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.dashboard-new-user .progress-yFUyoX:hover {
+  color: #100701
+}
+
+.dashboard-new-user .how-to-yFUyoX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 789px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.dashboard-new-user .how-to-yFUyoX:hover {
+  color: #100701
+}

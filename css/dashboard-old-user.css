@@ -1,0 +1,2463 @@
+/* screen - dashboard-old-user */
+
+.dashboard-old-user {
+  background-color: var(--white);
+  border: 1px none;
+  height: 1806px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.dashboard-old-user .union-6ihzuC {
+  background-color: transparent;
+  height: 1358px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+
+.dashboard-old-user .logo-6ihzuC {
+  background-color: transparent;
+  border: 1px none;
+  cursor: pointer;
+  height: 65px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 140px;
+}
+
+.dashboard-old-user .logo-pxtGU1 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.dashboard-old-user .blog-6ihzuC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.dashboard-old-user .faq-6ihzuC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 505px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.dashboard-old-user .icon-settings-6ihzuC {
+  background-color: transparent;
+  height: 26px;
+  left: 1198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 25px;
+}
+
+.dashboard-old-user .vector-6ihzuC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 1268px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 55px;
+}
+
+.dashboard-old-user .dashboard-6ihzuC {
+  background-color: transparent;
+  height: auto;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 167px;
+  width: auto;
+}
+
+.dashboard-old-user .hello-6ihzuC {
+  background-color: transparent;
+  color: var(--orangedark-3);
+  font-family: var(--font-family-satoshi-black);
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 144px;
+  width: auto;
+}
+
+.dashboard-old-user .september-2022-6ihzuC {
+  background-color: transparent;
+  height: auto;
+  left: 1001px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 222px;
+  width: auto;
+}
+
+.dashboard-old-user .james-naito-6ihzuC {
+  background-color: transparent;
+  height: auto;
+  left: 525px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 135px;
+  width: auto;
+}
+
+.dashboard-old-user .rectangle-13-6ihzuC {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 9px #00000054;
+  height: 402px;
+  left: 907px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 283px;
+  width: 433px;
+}
+
+.dashboard-old-user .calendar-2022-264-20-6ihzuC {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 367px;
+  left: 919px;
+  position: absolute;
+  top: 295px;
+  width: 407px;
+}
+
+.dashboard-old-user .grid-xgLrHq {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard-old-user .line-LKMwkZ {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-WUN3Up {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-L1UNMN {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 200;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-JSN3dV {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-VUPoBK {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-NWHI9c {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-oITFVH {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-QwHbpx {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-ZD5OhO {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-b75tcN {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-kEISbo {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-z82pCM {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-tpyqsT {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 11px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-0idRRF {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-te40Fg {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-K7hDoF {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-yhBbZz {
+  background-color: transparent;
+  color: var(--sealight-2);
+  font-family: var(--font-family-inter);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .line-x7fdTC {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-Dp1Oxh {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-KdKMHX {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-3b2qup {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-OIv9xv {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-eis0bc {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-FTlYJb {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-CNb8wq {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-5v391G {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-mexGfy {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-8zr27k {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 6px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-TVCx6X {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-4ixcNX {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-Cln3xg {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-RJZYsM {
+  background-color: transparent;
+  color: #b4b3b3;
+  font-family: var(--font-family-inter);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 8px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-qCwQ9G {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-QSWHmv {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 8px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .line-RcrY6J {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-85HKIr {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-k8lxnt {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-uZaxuW {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-xXXEu6 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-o0W95P {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-eaN4Mq {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-iBiKjr {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-ykTKJf {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-x9RcEQ {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-ttrffj {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-WTQ56x {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-TdE1xG {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-7o3V72 {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-Fbc2nx {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-Qxu7rH {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-V15ZTL {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 11px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .line-e9wTqR {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-SQgEMP {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-zkS19a {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-JoHEKd {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-ZqMBnT {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-O2I1ml {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-1oRBhJ {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-BBrShK {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-QiqQq9 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-JOCFeh {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-bynSwr {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-1kXH6P {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-T6kDi2 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-2GiBFx {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-tbbPyJ {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-nKa4j0 {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-D9HYSN {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .line-m5HrQx {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-9nxtHZ {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-IMX4KQ {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-mUZrR2 {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-OmPfRF {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-GGUSzK {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-qYYAx6 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-1jKIS0 {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-NTp0bi {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 12px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-rQtfkJ {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-wP28x5 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-XJsYCM {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-x2MGBH {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-K9xaxT {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-MgPF6x {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-7cjFPF {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-xLQ1Fi {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .line-JiUtwb {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-kFUf19 {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-N2WhLp {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-JZg1cP {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-Zx6E9r {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-Eilx8e {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-WXaFC9 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-snIqJG {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-mKQiO7 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-xj0l1m {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-dYkuOY {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-y6EW9o {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-aKLmBI {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-mOdxeu {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-zj8Nme {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 6px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-JMt6da {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-2a9K4T {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .line-wmT0fN {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px none;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  overflow: hidden;
+  position: relative;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-wY0XIv {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-x7jYFJ {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 14px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-8sfm07 {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-VECDil {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 8px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-k5eMdC {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-CoM2ew {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 8px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-9jhz7r {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-9xaiEr {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-XQfV9x {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-A8QtoB {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-2Epo1X {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-voIlMp {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-pC5r8q {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-Pk6UnC {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .calendar-2022-264-atoms-items-RScjxo {
+  align-items: center;
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 4px;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  position: relative;
+  width: 22px;
+}
+
+.dashboard-old-user .text-BSvZe1 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 7px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.dashboard-old-user .devices-6ihzuC {
+  background-color: transparent;
+  height: 387px;
+  left: 379px;
+  position: absolute;
+  top: 298px;
+  width: 466px;
+}
+
+.dashboard-old-user .devices-i1Za8i {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.dashboard-old-user .rectangle-12-i1Za8i {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 9px #00000054;
+  height: 310px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 77px;
+  width: 462px;
+}
+
+.dashboard-old-user .group-13-i1Za8i {
+  background-color: transparent;
+  height: 200px;
+  left: 43px;
+  position: absolute;
+  top: 102px;
+  width: 173px;
+}
+
+.dashboard-old-user .rectangle-52-ogawsu {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 159px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 41px;
+  width: 169px;
+}
+
+.dashboard-old-user .ellipse-11-ogawsu {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 44px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 88px;
+  left: 41px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 88px;
+}
+
+.dashboard-old-user .fridge-ogawsu {
+  background-color: transparent;
+  color: var(--orangedark-3);
+  font-family: var(--font-family-satoshi-black);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 106px;
+  width: auto;
+}
+
+.dashboard-old-user .fridge-name-ogawsu {
+  background-color: transparent;
+  color: var(--orangelight-2);
+  font-family: var(--font-family-satoshi-medium);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 150px;
+  width: auto;
+}
+
+.dashboard-old-user .group-14-i1Za8i {
+  background-color: transparent;
+  height: 200px;
+  left: 242px;
+  position: absolute;
+  top: 102px;
+  width: 173px;
+}
+
+.dashboard-old-user .rectangle-53-oIjVEn {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 159px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 41px;
+  width: 169px;
+}
+
+.dashboard-old-user .ellipse-12-oIjVEn {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 44px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 88px;
+  left: 41px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 88px;
+}
+
+.dashboard-old-user .tv-oIjVEn {
+  background-color: transparent;
+  color: var(--orangedark-3);
+  font-family: var(--font-family-satoshi-black);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 63px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 106px;
+  width: auto;
+}
+
+.dashboard-old-user .tv-name-oIjVEn {
+  background-color: transparent;
+  color: var(--orangelight-2);
+  font-family: var(--font-family-satoshi-medium);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 150px;
+  width: auto;
+}
+
+.dashboard-old-user .see-more-i1Za8i {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 358px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 345px;
+  width: auto;
+}
+
+.dashboard-old-user .tasks-6ihzuC {
+  background-color: transparent;
+  height: 387px;
+  left: 380px;
+  position: absolute;
+  top: 827px;
+  width: 466px;
+}
+
+.dashboard-old-user .todays-tasks-APq7Ih {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.dashboard-old-user .rectangle-16-APq7Ih {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 9px #00000054;
+  height: 310px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 77px;
+  width: 462px;
+}
+
+.dashboard-old-user .see-more-APq7Ih {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 358px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 340px;
+  width: auto;
+}
+
+.dashboard-old-user .task1-APq7Ih {
+  background-color: transparent;
+  height: 72px;
+  left: 30px;
+  position: absolute;
+  top: 113px;
+  width: 400px;
+}
+
+.dashboard-old-user .rectangle-54-n9cP0T {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 40px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 394px;
+}
+
+.dashboard-old-user .task-name-title-n9cP0T {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 22px;
+  width: auto;
+}
+
+.dashboard-old-user .ends-n9cP0T {
+  background-color: transparent;
+  color: var(--orangelight-3);
+  font-family: var(--font-family-satoshi-medium);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 312px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  width: auto;
+}
+
+.dashboard-old-user .x300-pm-n9cP0T {
+  background-color: transparent;
+  color: var(--orangelight-2);
+  font-family: var(--font-family-satoshi-medium);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 298px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  width: auto;
+}
+
+.dashboard-old-user .subtract-n9cP0T {
+  background-color: transparent;
+  height: 67px;
+  left: 371px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 23px;
+}
+
+.dashboard-old-user .task2-APq7Ih {
+  background-color: transparent;
+  height: 72px;
+  left: 30px;
+  position: absolute;
+  top: 215px;
+  width: 401px;
+}
+
+.dashboard-old-user .rectangle-55-494c3L {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 40px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 394px;
+}
+
+.dashboard-old-user .ends-494c3L {
+  background-color: transparent;
+  color: var(--orangelight-3);
+  font-family: var(--font-family-satoshi-medium);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 312px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: auto;
+}
+
+.dashboard-old-user .x500-pm-494c3L {
+  background-color: transparent;
+  color: var(--orangelight-2);
+  font-family: var(--font-family-satoshi-medium);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 298px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: auto;
+}
+
+.dashboard-old-user .task-name-title-494c3L {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 22px;
+  width: auto;
+}
+
+.dashboard-old-user .subtract-494c3L {
+  background-color: transparent;
+  height: 67px;
+  left: 370px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 24px;
+}
+
+.dashboard-old-user .schedules-6ihzuC {
+  background-color: transparent;
+  height: 387px;
+  left: 878px;
+  position: absolute;
+  top: 827px;
+  width: 466px;
+}
+
+.dashboard-old-user .todays-schedule-wanWHy {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.dashboard-old-user .rectangle-17-wanWHy {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 9px #00000054;
+  height: 310px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 77px;
+  width: 462px;
+}
+
+.dashboard-old-user .see-more-wanWHy {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 362px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 340px;
+  width: auto;
+}
+
+.dashboard-old-user .sched1-wanWHy {
+  background-color: transparent;
+  height: 99px;
+  left: 29px;
+  position: absolute;
+  top: 99px;
+  width: 410px;
+}
+
+.dashboard-old-user .rectangle-58-6cWxCx {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 404px;
+}
+
+.dashboard-old-user .rectangle-59-6cWxCx {
+  background-color: var(--gold-tips);
+  border: 1px none;
+  border-radius: 0px 20px 20px 0px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 99px;
+  left: 387px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.dashboard-old-user .fridge-6cWxCx {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 18px;
+  width: auto;
+}
+
+.dashboard-old-user .turn-on-for-2-5-hours-6cWxCx {
+  background-color: transparent;
+  color: var(--orangelight-2);
+  font-family: var(--font-family-satoshi-medium);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: auto;
+}
+
+.dashboard-old-user .reminder-in-1-hour-6cWxCx {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-satoshi-medium);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 304px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  width: auto;
+}
+
+.dashboard-old-user .span0-F3nfnW {
+  color: var(--orangelight-3);
+  font-style: normal;
+}
+
+.dashboard-old-user .span1-F3nfnW {
+  color: var(--orangedark-3);
+  font-style: normal;
+}
+
+.dashboard-old-user .sched2-wanWHy {
+  background-color: transparent;
+  height: 99px;
+  left: 29px;
+  position: absolute;
+  top: 215px;
+  width: 410px;
+}
+
+.dashboard-old-user .rectangle-58-O2R0kk {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 404px;
+}
+
+.dashboard-old-user .rectangle-59-O2R0kk {
+  background-color: var(--gold-tips);
+  border: 1px none;
+  border-radius: 0px 20px 20px 0px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 99px;
+  left: 387px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.dashboard-old-user .bulb-O2R0kk {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 18px;
+  width: auto;
+}
+
+.dashboard-old-user .turn-on-for-4-6-hours-O2R0kk {
+  background-color: transparent;
+  color: var(--orangelight-2);
+  font-family: var(--font-family-satoshi-medium);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: auto;
+}
+
+.dashboard-old-user .reminder-in-30-min-O2R0kk {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-satoshi-medium);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 304px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  width: auto;
+}
+
+.dashboard-old-user .span0-CUhCDS {
+  color: var(--orangelight-3);
+  font-style: normal;
+}
+
+.dashboard-old-user .span1-CUhCDS {
+  color: var(--orangedark-3);
+  font-style: normal;
+}
+
+.dashboard-old-user .footer-6ihzuC {
+  background-color: transparent;
+  border: 1px none;
+  height: 421px;
+  left: 0px;
+  position: absolute;
+  top: 1385px;
+  width: 1500px;
+}
+
+.dashboard-old-user .rectangle-4-zkmcJ3 {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  box-shadow: 0px -4px 7px 2px #00000040;
+  height: 421px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.dashboard-old-user .logo-zkmcJ3 {
+  background-color: transparent;
+  border: 1px none;
+  height: 65px;
+  left: 188px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 143px;
+  width: 140px;
+}
+
+.dashboard-old-user .logo-LFJISA {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.dashboard-old-user .save-resources-with-our-web-app-zkmcJ3 {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 165px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  width: auto;
+}
+
+.dashboard-old-user .how-it-works-zkmcJ3 {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-old-user .about-us-zkmcJ3 {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-old-user .blog-zkmcJ3 {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 175px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-old-user .privacy-zkmcJ3 {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 215px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-old-user .terms-of-service-zkmcJ3 {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-old-user .copyright2022-our-ap-zkmcJ3 {
+  background-color: transparent;
+  height: auto;
+  left: 978px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-old-user .templates-zkmcJ3 {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 172px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-old-user .features-zkmcJ3 {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-old-user .company-zkmcJ3 {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.dashboard-old-user .icon-twitter-zkmcJ3 {
+  background-color: transparent;
+  height: 36px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 248px;
+  width: 36px;
+}
+
+.dashboard-old-user .icon-instagram-zkmcJ3 {
+  background-color: transparent;
+  height: 33px;
+  left: 290px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 252px;
+  width: 33px;
+}
+
+.dashboard-old-user .youtube-zkmcJ3 {
+  background-color: transparent;
+  height: 29px;
+  left: 348px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 253px;
+  width: 41px;
+}
+
+.dashboard-old-user .icon-facebook-zkmcJ3 {
+  background-color: transparent;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 36px;
+}
+
+.dashboard-old-user .my-devices-6ihzuC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 75px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 313px;
+  width: auto;
+}
+
+.dashboard-old-user .schedule-6ihzuC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 92px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 432px;
+  width: auto;
+}
+
+.dashboard-old-user .tasks-VeYVsR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 551px;
+  width: auto;
+}
+
+.dashboard-old-user .progress-6ihzuC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 670px;
+  width: auto;
+}
+
+.dashboard-old-user .how-to-6ihzuC {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 789px;
+  width: auto;
+}

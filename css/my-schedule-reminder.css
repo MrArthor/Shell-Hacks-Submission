@@ -1,0 +1,721 @@
+/* screen - my-schedule-reminder */
+
+.my-schedule-reminder {
+  background-color: var(--white);
+  border: 1px none;
+  height: 2649px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.my-schedule-reminder .union-IRVK6P {
+  background-color: transparent;
+  height: 1358px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+
+.my-schedule-reminder .logo-IRVK6P {
+  background-color: transparent;
+  border: 1px none;
+  cursor: pointer;
+  height: 65px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 140px;
+}
+
+.my-schedule-reminder .logo-t5ABF6 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.my-schedule-reminder .blog-IRVK6P {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-schedule-reminder .faq-IRVK6P {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 505px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-schedule-reminder .icon-settings-IRVK6P {
+  background-color: transparent;
+  height: 26px;
+  left: 1198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 25px;
+}
+
+.my-schedule-reminder .vector-IRVK6P {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 1268px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 55px;
+}
+
+.my-schedule-reminder .schedule-IRVK6P {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 432px;
+  width: auto;
+}
+
+.my-schedule-reminder .schedule-ZCNv5L {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 172px;
+  width: auto;
+}
+
+.my-schedule-reminder .fridge-IRVK6P {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 353px;
+  width: auto;
+}
+
+.my-schedule-reminder .device-name-set-by-user-IRVK6P {
+  background-color: transparent;
+  height: auto;
+  left: 692px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 584px;
+  width: auto;
+}
+
+.my-schedule-reminder .get-reminder-IRVK6P {
+  background-color: transparent;
+  height: auto;
+  left: 607px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 907px;
+  width: auto;
+}
+
+.my-schedule-reminder .auto-turn-off-IRVK6P {
+  background-color: transparent;
+  height: auto;
+  left: 607px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1040px;
+  width: auto;
+}
+
+.my-schedule-reminder .device-will-turn-off-IRVK6P {
+  background-color: transparent;
+  color: var(--orangelight-2);
+  font-family: var(--font-family-satoshi-medium);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 607px;
+  letter-spacing: 0px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1105px;
+  width: 340px;
+}
+
+.my-schedule-reminder .model-number-IRVK6P {
+  background-color: transparent;
+  color: var(--orangedark-3);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 692px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 666px;
+  width: auto;
+}
+
+.my-schedule-reminder .high-consumption-IRVK6P {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 428px;
+  width: auto;
+}
+
+.my-schedule-reminder .ellipse-9-IRVK6P {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 121px;
+  box-shadow: 0px 4px 7px #00000054;
+  height: 242px;
+  left: 390px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 541px;
+  width: 242px;
+}
+
+.my-schedule-reminder .main-blog-IRVK6P {
+  background-color: transparent;
+  cursor: pointer;
+  height: 420px;
+  left: 407px;
+  position: absolute;
+  top: 1264px;
+  width: 825px;
+}
+
+.my-schedule-reminder .rectangle-19-NtxVSQ {
+  background-color: transparent;
+  height: 436px;
+  left: -8px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -4px;
+  width: 837px;
+}
+
+.my-schedule-reminder .rectangle-20-NtxVSQ {
+  background: linear-gradient(
+    180deg,
+    rgba(244.37497973442078, 225.70744782686234, 202.62759268283844, 0) 0%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 20px;
+  height: 420px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 821px;
+}
+
+.my-schedule-reminder .adverse-effects-of-p-NtxVSQ {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 283px;
+  width: auto;
+}
+
+.my-schedule-reminder .lorem-ipsum-dolor-si-NtxVSQ {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 357px;
+  width: 677px;
+}
+
+.my-schedule-reminder .chevron-right-circle-outline-NtxVSQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: 770px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 364px;
+  width: 31px;
+}
+
+.my-schedule-reminder .button-IRVK6P {
+  align-items: center;
+  background-color: var(--orangestandard);
+  border: 1px none;
+  border-radius: 50px;
+  box-shadow: 0px 4px 4px #0000006e;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 99px;
+  justify-content: space-around;
+  left: 691px;
+  mix-blend-mode: normal;
+  padding: 18px 33px;
+  position: absolute;
+  top: 1808px;
+  width: 291px;
+}
+
+.my-schedule-reminder .done-5ysZB4 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-satoshi-black);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0px;
+  line-height: normal;
+  min-width: 118px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.my-schedule-reminder .footer-IRVK6P {
+  background-color: transparent;
+  border: 1px none;
+  height: 421px;
+  left: 0px;
+  position: absolute;
+  top: 2228px;
+  width: 1500px;
+}
+
+.my-schedule-reminder .rectangle-4-hCF6KI {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  box-shadow: 0px -4px 7px 2px #00000040;
+  height: 421px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.my-schedule-reminder .logo-hCF6KI {
+  background-color: transparent;
+  border: 1px none;
+  height: 65px;
+  left: 188px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 143px;
+  width: 140px;
+}
+
+.my-schedule-reminder .logo-tO3D3B {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.my-schedule-reminder .save-resources-with-our-web-app-hCF6KI {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 165px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  width: auto;
+}
+
+.my-schedule-reminder .how-it-works-hCF6KI {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-reminder .about-us-hCF6KI {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-reminder .blog-hCF6KI {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 175px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-reminder .privacy-hCF6KI {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 215px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-reminder .terms-of-service-hCF6KI {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-reminder .copyright2022-our-ap-hCF6KI {
+  background-color: transparent;
+  height: auto;
+  left: 978px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-reminder .templates-hCF6KI {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 172px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-reminder .features-hCF6KI {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-reminder .company-hCF6KI {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-reminder .icon-twitter-hCF6KI {
+  background-color: transparent;
+  height: 36px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 248px;
+  width: 36px;
+}
+
+.my-schedule-reminder .icon-instagram-hCF6KI {
+  background-color: transparent;
+  height: 33px;
+  left: 290px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 252px;
+  width: 33px;
+}
+
+.my-schedule-reminder .youtube-hCF6KI {
+  background-color: transparent;
+  height: 29px;
+  left: 348px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 253px;
+  width: 41px;
+}
+
+.my-schedule-reminder .icon-facebook-hCF6KI {
+  background-color: transparent;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 36px;
+}
+
+.my-schedule-reminder .component-1-IRVK6P {
+  background-color: transparent;
+  border: 1px none;
+  cursor: pointer;
+  height: 90px;
+  left: 466px;
+  pointer-events: auto;
+  position: absolute;
+  top: 900px;
+  transition: all 0.2s ease;
+  width: 90px;
+}
+
+.my-schedule-reminder .component-1-IRVK6P:hover {
+  background-color: #fc6e00;
+}
+
+.my-schedule-reminder .box-a6nnOH {
+  background-color: var(--white);
+  border: 4px solid;
+  border-color: var(--chicago);
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 90px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 90px;
+}
+
+.my-schedule-reminder .icon-check_mark-a6nnOH {
+  background-color: transparent;
+  height: 65px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 64px;
+}
+
+.my-schedule-reminder .component-2-IRVK6P {
+  background-color: transparent;
+  border: 1px none;
+  cursor: pointer;
+  height: 90px;
+  left: 469px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1031px;
+  transition: all 0.2s ease;
+  width: 90px;
+}
+
+.my-schedule-reminder .component-2-IRVK6P:hover {
+  background-color: #fc6e00;
+}
+
+.my-schedule-reminder .box-jcj7jD {
+  background-color: var(--white);
+  border: 4px solid;
+  border-color: var(--chicago);
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 90px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 90px;
+}
+
+.my-schedule-reminder .icon-check_mark-jcj7jD {
+  background-color: transparent;
+  height: 65px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 64px;
+}
+
+.my-schedule-reminder .dashboard-IRVK6P {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 92px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 148px;
+  width: auto;
+}
+
+.my-schedule-reminder .my-devices-IRVK6P {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 272px;
+  width: auto;
+}
+
+.my-schedule-reminder .tasks-IRVK6P {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 124px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 551px;
+  width: auto;
+}
+
+.my-schedule-reminder .progress-IRVK6P {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 670px;
+  width: auto;
+}
+
+.my-schedule-reminder .how-to-IRVK6P {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 789px;
+  width: auto;
+}

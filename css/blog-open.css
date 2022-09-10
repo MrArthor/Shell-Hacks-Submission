@@ -1,0 +1,522 @@
+/* screen - blog-open */
+
+.blog-open {
+  background-color: var(--white);
+  border: 1px none;
+  height: 2244px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.blog-open .rectangle-24-nqATaf {
+  background-color: #f3ecdb;
+  border: 1px none;
+  border-radius: 40px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 78px;
+  left: 44px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1604px;
+  width: 186px;
+}
+
+.blog-open .rectangle-25-nqATaf {
+  background-color: #f3ecdb;
+  border: 1px none;
+  border-radius: 40px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 78px;
+  left: 323px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1604px;
+  width: 111px;
+}
+
+.blog-open .rectangle-23-nqATaf {
+  background-color: transparent;
+  height: 498px;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 140px;
+  width: 1276px;
+}
+
+.blog-open .heading-nqATaf {
+  background-color: transparent;
+  color: var(--orangestandard);
+  font-family: var(--font-family-satoshi-black);
+  font-size: 90px;
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0px;
+  line-height: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 724px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.blog-open .lorem-ipsum-dolor-si-nqATaf {
+  background-color: transparent;
+  color: var(--orangelight-1);
+  font-family: var(--font-family-satoshi-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 49px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 863px;
+  width: 1268px;
+}
+
+.blog-open .lorem-ipsum-dolor-si-JfsKOH {
+  background-color: transparent;
+  color: var(--orangelight-1);
+  font-family: var(--font-family-satoshi-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 49px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1237px;
+  width: 1268px;
+}
+
+.blog-open .vector-nqATaf {
+  background-color: transparent;
+  height: 53px;
+  left: 355px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1620px;
+  width: 53px;
+}
+
+.blog-open .group-4-nqATaf {
+  background-color: transparent;
+  height: 51px;
+  left: 70px;
+  position: absolute;
+  top: 1618px;
+  width: 137px;
+}
+
+.blog-open .icon-heart-x6Zv0E {
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 56px;
+}
+
+.blog-open .x254-x6Zv0E {
+  background-color: transparent;
+  height: auto;
+  left: 70px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.blog-open .footer-nqATaf {
+  background-color: transparent;
+  border: 1px none;
+  height: 421px;
+  left: 0px;
+  position: absolute;
+  top: 1823px;
+  width: 1500px;
+}
+
+.blog-open .rectangle-4-pXn5xD {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  box-shadow: 0px -4px 7px 2px #00000040;
+  height: 421px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.blog-open .logo-pXn5xD {
+  background-color: transparent;
+  border: 1px none;
+  height: 65px;
+  left: 188px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 143px;
+  width: 140px;
+}
+
+.blog-open .logo-qgcScf {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.blog-open .save-resources-with-our-web-app-pXn5xD {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 165px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  width: auto;
+}
+
+.blog-open .how-it-works-pXn5xD {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.blog-open .about-us-pXn5xD {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.blog-open .blog-pXn5xD {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 175px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.blog-open .privacy-pXn5xD {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 215px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.blog-open .terms-of-service-pXn5xD {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.blog-open .copyright2022-our-ap-pXn5xD {
+  background-color: transparent;
+  height: auto;
+  left: 978px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.blog-open .templates-pXn5xD {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 172px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.blog-open .features-pXn5xD {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.blog-open .company-pXn5xD {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.blog-open .icon-twitter-pXn5xD {
+  background-color: transparent;
+  height: 36px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 248px;
+  width: 36px;
+}
+
+.blog-open .icon-instagram-pXn5xD {
+  background-color: transparent;
+  height: 33px;
+  left: 290px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 252px;
+  width: 33px;
+}
+
+.blog-open .youtube-pXn5xD {
+  background-color: transparent;
+  height: 29px;
+  left: 348px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 253px;
+  width: 41px;
+}
+
+.blog-open .icon-facebook-pXn5xD {
+  background-color: transparent;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 36px;
+}
+
+.blog-open .navbar-nqATaf {
+  background-color: transparent;
+  border: 1px none;
+  box-shadow: 0px 4px 7px #00000075;
+  height: 81px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1500px;
+}
+
+.blog-open .group-3-RKFzOV {
+  background-color: transparent;
+  height: 81px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1378px;
+}
+
+.blog-open .rectangle-18-BXbJKX {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  height: 81px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.blog-open .logo-BXbJKX {
+  background-color: transparent;
+  border: 1px none;
+  cursor: pointer;
+  height: 65px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 140px;
+}
+
+.blog-open .logo-5H3WMj {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.blog-open .features-BXbJKX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 337px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.blog-open .how-to-BXbJKX {
+  background-color: transparent;
+  height: auto;
+  left: 489px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.blog-open .log-in-BXbJKX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1282px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 21px;
+  width: auto;
+}
+
+.blog-open .sign-up-BXbJKX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1178px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 21px;
+  width: auto;
+}
+
+.blog-open .blog-BXbJKX {
+  background-color: transparent;
+  height: auto;
+  left: 631px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.blog-open .faq-BXbJKX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 744px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.blog-open .line-1-RKFzOV {
+  background-color: transparent;
+  height: 3px;
+  left: 623px;
+  position: absolute;
+  top: 63px;
+  width: 70px;
+}

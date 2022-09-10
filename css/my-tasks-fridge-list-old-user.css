@@ -1,0 +1,812 @@
+/* screen - my-tasks-fridge-list-old-user */
+
+.my-tasks-fridge-list-old-user {
+  background-color: var(--white);
+  border: 1px none;
+  height: 2203px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.my-tasks-fridge-list-old-user .union-tuaiDX {
+  background-color: transparent;
+  height: 1358px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+
+.my-tasks-fridge-list-old-user .logo-tuaiDX {
+  background-color: transparent;
+  border: 1px none;
+  cursor: pointer;
+  height: 65px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 140px;
+}
+
+.my-tasks-fridge-list-old-user .logo-7evnSy {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .blog-tuaiDX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .faq-tuaiDX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 505px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .icon-settings-tuaiDX {
+  background-color: transparent;
+  height: 26px;
+  left: 1198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 25px;
+}
+
+.my-tasks-fridge-list-old-user .vector-tuaiDX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 1268px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 55px;
+}
+
+.my-tasks-fridge-list-old-user .tasks-tuaiDX {
+  background-color: transparent;
+  height: auto;
+  left: 120px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 551px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .tasks-SBydAh {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 172px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .fridge-tuaiDX {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 492px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .high-consumption-tuaiDX {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 567px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .group-15-tuaiDX {
+  background-color: transparent;
+  height: 86px;
+  left: 392px;
+  position: absolute;
+  top: 316px;
+  width: 243px;
+}
+
+.my-tasks-fridge-list-old-user .rectangle-47-lVThCW {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 86px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 241px;
+}
+
+.my-tasks-fridge-list-old-user .my-tasks-lVThCW {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .completed-tuaiDX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 732px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 325px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .someday-tuaiDX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1080px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 325px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .fridge-task-list-tuaiDX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 396px;
+  position: absolute;
+  top: 685px;
+  width: 876px;
+}
+
+.my-tasks-fridge-list-old-user .rectangle-42-bU300o {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 79px;
+  left: 74px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 800px;
+}
+
+.my-tasks-fridge-list-old-user .vector-bU300o {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 802px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 24px;
+}
+
+.my-tasks-fridge-list-old-user .rectangle-43-bU300o {
+  background-color: var(--red);
+  border: 1px none;
+  border-radius: 0px 10px 10px 0px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 79px;
+  left: 849px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.my-tasks-fridge-list-old-user .box-bU300o {
+  background-color: var(--white);
+  border: 4px solid;
+  border-color: var(--orangestandard);
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 16px;
+  transition: all 2s ease-in-out;
+  width: 53px;
+}
+
+.my-tasks-fridge-list-old-user .box-bU300o:hover {
+  transform: scale(1.1);
+}
+
+.my-tasks-fridge-list-old-user .task-name-task-name-task-name-bU300o {
+  background-color: transparent;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .fridge-task-list-SBydAh {
+  background-color: transparent;
+  height: 79px;
+  left: 396px;
+  position: absolute;
+  top: 821px;
+  width: 876px;
+}
+
+.my-tasks-fridge-list-old-user .rectangle-42-pbUa7Z {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 79px;
+  left: 74px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 800px;
+}
+
+.my-tasks-fridge-list-old-user .vector-pbUa7Z {
+  background-color: transparent;
+  height: 24px;
+  left: 802px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 24px;
+}
+
+.my-tasks-fridge-list-old-user .rectangle-43-pbUa7Z {
+  background-color: var(--red);
+  border: 1px none;
+  border-radius: 0px 10px 10px 0px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 79px;
+  left: 849px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.my-tasks-fridge-list-old-user .box-pbUa7Z {
+  background-color: var(--white);
+  border: 4px solid;
+  border-color: var(--orangestandard);
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 16px;
+  transition: all 2s ease-in-out;
+  width: 53px;
+}
+
+.my-tasks-fridge-list-old-user .box-pbUa7Z:hover {
+  transform: scale(1.1);
+}
+
+.my-tasks-fridge-list-old-user .task-name-task-name-task-name-pbUa7Z {
+  background-color: transparent;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .fridge-task-list-5bvNBi {
+  background-color: transparent;
+  height: 79px;
+  left: 396px;
+  position: absolute;
+  top: 957px;
+  width: 876px;
+}
+
+.my-tasks-fridge-list-old-user .rectangle-42-f9dERH {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 79px;
+  left: 74px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 800px;
+}
+
+.my-tasks-fridge-list-old-user .vector-f9dERH {
+  background-color: transparent;
+  height: 24px;
+  left: 802px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 24px;
+}
+
+.my-tasks-fridge-list-old-user .rectangle-43-f9dERH {
+  background-color: var(--alien-armpit);
+  border: 1px none;
+  border-radius: 0px 10px 10px 0px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 79px;
+  left: 849px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.my-tasks-fridge-list-old-user .box-f9dERH {
+  background-color: var(--white);
+  border: 4px solid;
+  border-color: var(--orangestandard);
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 53px;
+}
+
+.my-tasks-fridge-list-old-user .task-name-task-name-task-name-f9dERH {
+  background-color: transparent;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .fridge-task-list-EIz43K {
+  background-color: transparent;
+  height: 79px;
+  left: 396px;
+  position: absolute;
+  top: 1093px;
+  width: 876px;
+}
+
+.my-tasks-fridge-list-old-user .rectangle-42-HxPaOB {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 79px;
+  left: 74px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 800px;
+}
+
+.my-tasks-fridge-list-old-user .vector-HxPaOB {
+  background-color: transparent;
+  height: 24px;
+  left: 802px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 24px;
+}
+
+.my-tasks-fridge-list-old-user .rectangle-43-HxPaOB {
+  background-color: var(--gold-tips);
+  border: 1px none;
+  border-radius: 0px 10px 10px 0px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 79px;
+  left: 849px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.my-tasks-fridge-list-old-user .box-HxPaOB {
+  background-color: var(--white);
+  border: 4px solid;
+  border-color: var(--orangestandard);
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 53px;
+}
+
+.my-tasks-fridge-list-old-user .task-name-task-name-task-name-HxPaOB {
+  background-color: transparent;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .footer-tuaiDX {
+  background-color: transparent;
+  border: 1px none;
+  height: 421px;
+  left: 0px;
+  position: absolute;
+  top: 1782px;
+  width: 1500px;
+}
+
+.my-tasks-fridge-list-old-user .rectangle-4-8kOh4H {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  box-shadow: 0px -4px 7px 2px #00000040;
+  height: 421px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.my-tasks-fridge-list-old-user .logo-8kOh4H {
+  background-color: transparent;
+  border: 1px none;
+  height: 65px;
+  left: 188px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 143px;
+  width: 140px;
+}
+
+.my-tasks-fridge-list-old-user .logo-jUC1dP {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .save-resources-with-our-web-app-8kOh4H {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 165px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .how-it-works-8kOh4H {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .about-us-8kOh4H {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .blog-8kOh4H {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 175px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .privacy-8kOh4H {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 215px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .terms-of-service-8kOh4H {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .copyright2022-our-ap-8kOh4H {
+  background-color: transparent;
+  height: auto;
+  left: 978px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .templates-8kOh4H {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 172px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .features-8kOh4H {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .company-8kOh4H {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .icon-twitter-8kOh4H {
+  background-color: transparent;
+  height: 36px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 248px;
+  width: 36px;
+}
+
+.my-tasks-fridge-list-old-user .icon-instagram-8kOh4H {
+  background-color: transparent;
+  height: 33px;
+  left: 290px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 252px;
+  width: 33px;
+}
+
+.my-tasks-fridge-list-old-user .youtube-8kOh4H {
+  background-color: transparent;
+  height: 29px;
+  left: 348px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 253px;
+  width: 41px;
+}
+
+.my-tasks-fridge-list-old-user .icon-facebook-8kOh4H {
+  background-color: transparent;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 36px;
+}
+
+.my-tasks-fridge-list-old-user .dashboard-tuaiDX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .my-devices-tuaiDX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 76px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 284px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .schedule-tuaiDX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 93px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 408px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .progress-tuaiDX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 682px;
+  width: auto;
+}
+
+.my-tasks-fridge-list-old-user .how-to-tuaiDX {
+  background-color: transparent;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 801px;
+  width: auto;
+}

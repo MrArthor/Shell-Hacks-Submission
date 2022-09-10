@@ -1,0 +1,863 @@
+/* screen - my-tasks-adding-new-task */
+
+.my-tasks-adding-new-task {
+  background-color: var(--white);
+  border: 1px none;
+  height: 2203px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.my-tasks-adding-new-task .union-p3Enmd {
+  background-color: transparent;
+  height: 1358px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+
+.my-tasks-adding-new-task .logo-p3Enmd {
+  background-color: transparent;
+  border: 1px none;
+  cursor: pointer;
+  height: 65px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 140px;
+}
+
+.my-tasks-adding-new-task .logo-1xTMfh {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .blog-p3Enmd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .faq-p3Enmd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 505px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .icon-settings-p3Enmd {
+  background-color: transparent;
+  height: 26px;
+  left: 1198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 25px;
+}
+
+.my-tasks-adding-new-task .vector-p3Enmd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 1268px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 55px;
+}
+
+.my-tasks-adding-new-task .tasks-p3Enmd {
+  background-color: transparent;
+  height: auto;
+  left: 120px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 551px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .tasks-vY4xAy {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 172px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .fridge-p3Enmd {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 492px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .high-consumption-p3Enmd {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 567px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .my-task-p3Enmd {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 683px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .deadline-p3Enmd {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 979px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .rectangle-42-p3Enmd {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 79px;
+  left: 392px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 748px;
+  width: 563px;
+}
+
+.my-tasks-adding-new-task .rectangle-48-p3Enmd {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 79px;
+  left: 392px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1044px;
+  width: 563px;
+}
+
+.my-tasks-adding-new-task .enter-here-p3Enmd {
+  background-color: transparent;
+  height: auto;
+  left: 413px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 765px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .add-sub-task-p3Enmd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 460px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 846px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .select-deadline-p3Enmd {
+  background-color: transparent;
+  height: auto;
+  left: 413px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1061px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .vector-vY4xAy {
+  background-color: transparent;
+  height: 38px;
+  left: 896px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1064px;
+  width: 35px;
+}
+
+.my-tasks-adding-new-task .vector-0bQ7x8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 42px;
+  left: 403px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 852px;
+  width: 42px;
+}
+
+.my-tasks-adding-new-task .set-as-daily-task-p3Enmd {
+  background-color: transparent;
+  height: auto;
+  left: 1097px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 636px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .get-reminder-p3Enmd {
+  background-color: transparent;
+  height: auto;
+  left: 533px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1412px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .button-p3Enmd {
+  align-items: center;
+  background-color: var(--orangestandard);
+  border: 1px none;
+  border-radius: 50px;
+  box-shadow: 0px 4px 4px #0000006e;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 99px;
+  justify-content: space-around;
+  left: 505px;
+  mix-blend-mode: normal;
+  padding: 18px 33px;
+  position: absolute;
+  top: 1614px;
+  width: 397px;
+}
+
+.my-tasks-adding-new-task .save-task-py0LhZ {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  min-width: 194px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.my-tasks-adding-new-task .footer-p3Enmd {
+  background-color: transparent;
+  border: 1px none;
+  height: 421px;
+  left: 0px;
+  position: absolute;
+  top: 1786px;
+  width: 1500px;
+}
+
+.my-tasks-adding-new-task .rectangle-4-hwK8yT {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  box-shadow: 0px -4px 7px 2px #00000040;
+  height: 421px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.my-tasks-adding-new-task .logo-hwK8yT {
+  background-color: transparent;
+  border: 1px none;
+  height: 65px;
+  left: 188px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 143px;
+  width: 140px;
+}
+
+.my-tasks-adding-new-task .logo-CdNt3W {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .save-resources-with-our-web-app-hwK8yT {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 165px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .how-it-works-hwK8yT {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .about-us-hwK8yT {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .blog-hwK8yT {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 175px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .privacy-hwK8yT {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 215px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .terms-of-service-hwK8yT {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .copyright2022-our-ap-hwK8yT {
+  background-color: transparent;
+  height: auto;
+  left: 978px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .templates-hwK8yT {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 172px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .features-hwK8yT {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .company-hwK8yT {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .icon-twitter-hwK8yT {
+  background-color: transparent;
+  height: 36px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 248px;
+  width: 36px;
+}
+
+.my-tasks-adding-new-task .icon-instagram-hwK8yT {
+  background-color: transparent;
+  height: 33px;
+  left: 290px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 252px;
+  width: 33px;
+}
+
+.my-tasks-adding-new-task .youtube-hwK8yT {
+  background-color: transparent;
+  height: 29px;
+  left: 348px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 253px;
+  width: 41px;
+}
+
+.my-tasks-adding-new-task .icon-facebook-hwK8yT {
+  background-color: transparent;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 36px;
+}
+
+.my-tasks-adding-new-task .select-importance-level-p3Enmd {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1216px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .imp-level-p3Enmd {
+  background-color: transparent;
+  height: 43px;
+  left: 395px;
+  position: absolute;
+  top: 1278px;
+  width: 85px;
+}
+
+.my-tasks-adding-new-task .rectangle-46-poQKgG {
+  background-color: var(--red);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.my-tasks-adding-new-task .high-poQKgG {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .imp-level-vY4xAy {
+  background-color: transparent;
+  height: 43px;
+  left: 498px;
+  position: absolute;
+  top: 1278px;
+  width: 85px;
+}
+
+.my-tasks-adding-new-task .rectangle-46-8xJxng {
+  background-color: var(--gold-tips);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.my-tasks-adding-new-task .mid-8xJxng {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .imp-level-0bQ7x8 {
+  background-color: transparent;
+  height: 43px;
+  left: 601px;
+  position: absolute;
+  top: 1278px;
+  width: 85px;
+}
+
+.my-tasks-adding-new-task .rectangle-46-69dxv1 {
+  background-color: var(--alien-armpit);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.my-tasks-adding-new-task .low-69dxv1 {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .group-15-p3Enmd {
+  background-color: transparent;
+  height: 86px;
+  left: 392px;
+  position: absolute;
+  top: 316px;
+  width: 243px;
+}
+
+.my-tasks-adding-new-task .rectangle-47-9t8xml {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 86px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 241px;
+}
+
+.my-tasks-adding-new-task .my-tasks-9t8xml {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .completed-p3Enmd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 732px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 325px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .someday-p3Enmd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1080px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 325px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .liquid-switch-p3Enmd {
+  background-color: transparent;
+  border: 1px none;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 47px;
+  left: 971px;
+  position: absolute;
+  top: 635px;
+  width: 107px;
+}
+
+.my-tasks-adding-new-task .switch-sGCIYz {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 30px;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 107px;
+}
+
+.my-tasks-adding-new-task .button-sGCIYz {
+  background-color: var(--cloudy);
+  border: 1px none;
+  border-radius: 20px;
+  height: 40px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 40px;
+}
+
+.my-tasks-adding-new-task .dashboard-p3Enmd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .my-devices-p3Enmd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 76px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 284px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .schedule-p3Enmd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 93px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 408px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .progress-p3Enmd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 682px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .how-to-p3Enmd {
+  background-color: transparent;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 801px;
+  width: auto;
+}
+
+.my-tasks-adding-new-task .component-2-p3Enmd {
+  background-color: transparent;
+  border: 1px none;
+  height: 90px;
+  left: 413px;
+  position: absolute;
+  top: 1405px;
+  width: 90px;
+}
+
+.my-tasks-adding-new-task .box-yc8j4e {
+  background-color: var(--white);
+  border: 4px solid;
+  border-color: var(--chicago);
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 90px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 90px;
+}
+
+.my-tasks-adding-new-task .icon-check_mark-yc8j4e {
+  background-color: transparent;
+  height: 65px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 64px;
+}

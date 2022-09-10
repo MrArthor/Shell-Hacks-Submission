@@ -1,0 +1,129 @@
+/* screen - save-device-pop-up */
+
+.save-device-pop-up {
+  background-color: transparent;
+  border: 1px none;
+  height: 2931px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+#overlay-save-device-pop-up {
+  background-color: transparent;
+}
+
+.overlay .save-device-pop-up {
+  background-color: #00000000;
+}
+
+.save-device-pop-up .save-device-pop-up-5ax4qd {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 20px;
+  height: 406px;
+  left: calc(50vw - 258.5px);
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  top: calc(50vh - 203px);
+  width: 517px;
+}
+
+.save-device-pop-up .vector-MiEyp9 {
+  background-color: transparent;
+  height: 68px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 33px;
+  width: 68px;
+}
+
+.save-device-pop-up .set-up-schedule-MiEyp9 {
+  background-color: transparent;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0px;
+  line-height: 80px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.save-device-pop-up .button-MiEyp9 {
+  align-items: center;
+  background-color: var(--orangestandard);
+  border: 1px none;
+  border-radius: 50px;
+  box-shadow: 0px 4px 8px #00000078;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 62px;
+  justify-content: space-around;
+  left: 157px;
+  mix-blend-mode: normal;
+  padding: 18px 33px;
+  position: absolute;
+  top: 194px;
+  width: 203px;
+}
+
+.save-device-pop-up .right-now-2wp5if {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1.5px;
+  min-width: 122px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.save-device-pop-up .button-wHMBaO {
+  align-items: center;
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 50px;
+  box-shadow: 0px 4px 8px #00000078;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 60px;
+  justify-content: space-around;
+  left: 157px;
+  mix-blend-mode: normal;
+  padding: 18px 33px;
+  position: absolute;
+  top: 289px;
+  width: 203px;
+}
+
+.save-device-pop-up .later-sIRjeH {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-bottom: -0.5px;
+  margin-top: -2.5px;
+  min-width: 63px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.save-device-pop-up .icon-close-MiEyp9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 462px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24px;
+  width: 35px;
+}

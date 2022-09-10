@@ -1,0 +1,732 @@
+/* screen - my-device-high-con-new-user */
+
+.my-device-high-con-new-user {
+  background-color: var(--white);
+  border: 1px none;
+  height: 2040px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.my-device-high-con-new-user .union-SJ7gxT {
+  background-color: transparent;
+  height: 1358px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+
+.my-device-high-con-new-user .logo-SJ7gxT {
+  background-color: transparent;
+  border: 1px none;
+  cursor: pointer;
+  height: 65px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 140px;
+}
+
+.my-device-high-con-new-user .logo-8TGGiB {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .blog-SJ7gxT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .faq-SJ7gxT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 505px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .icon-settings-SJ7gxT {
+  background-color: transparent;
+  height: 26px;
+  left: 1198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 25px;
+}
+
+.my-device-high-con-new-user .vector-SJ7gxT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 1268px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 55px;
+}
+
+.my-device-high-con-new-user .my-devices-SJ7gxT {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 287px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .my-devices-F9DKFL {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 172px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .high-consumption-SJ7gxT {
+  background-color: transparent;
+  color: var(--orangedark-3);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 392px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 338px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .rectangle-29-SJ7gxT {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 216px;
+  left: 392px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 448px;
+  width: 445px;
+}
+
+.my-device-high-con-new-user .rectangle-35-SJ7gxT {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 216px;
+  left: 392px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 724px;
+  width: 445px;
+}
+
+.my-device-high-con-new-user .rectangle-32-SJ7gxT {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 216px;
+  left: 885px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 448px;
+  width: 445px;
+}
+
+.my-device-high-con-new-user .rectangle-36-SJ7gxT {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 216px;
+  left: 885px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 724px;
+  width: 445px;
+}
+
+.my-device-high-con-new-user .fridge-SJ7gxT {
+  background-color: transparent;
+  height: auto;
+  left: 546px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 491px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .microwave-SJ7gxT {
+  background-color: transparent;
+  height: auto;
+  left: 546px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 767px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .television-SJ7gxT {
+  background-color: transparent;
+  height: auto;
+  left: 1039px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 491px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .washing-machine-SJ7gxT {
+  background-color: transparent;
+  height: auto;
+  left: 1038px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 757px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .rectangle-30-SJ7gxT {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 48px;
+  left: 546px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 582px;
+  width: 197px;
+}
+
+.my-device-high-con-new-user .rectangle-37-SJ7gxT {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 48px;
+  left: 546px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 858px;
+  width: 197px;
+}
+
+.my-device-high-con-new-user .rectangle-33-SJ7gxT {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 48px;
+  left: 1039px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 582px;
+  width: 197px;
+}
+
+.my-device-high-con-new-user .rectangle-38-SJ7gxT {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 48px;
+  left: 1039px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 858px;
+  width: 197px;
+}
+
+.my-device-high-con-new-user .quick-schedule-SJ7gxT {
+  background-color: transparent;
+  height: auto;
+  left: 559px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 589px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .quick-schedule-F9DKFL {
+  background-color: transparent;
+  height: auto;
+  left: 559px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 865px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .quick-schedule-Ajo34z {
+  background-color: transparent;
+  height: auto;
+  left: 1052px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 589px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .quick-schedule-YX3PUV {
+  background-color: transparent;
+  height: auto;
+  left: 1052px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 865px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .rectangle-31-SJ7gxT {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 20px;
+  height: 163px;
+  left: 410px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 474px;
+  width: 117px;
+}
+
+.my-device-high-con-new-user .rectangle-39-SJ7gxT {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 20px;
+  height: 163px;
+  left: 410px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 750px;
+  width: 117px;
+}
+
+.my-device-high-con-new-user .rectangle-34-SJ7gxT {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 20px;
+  height: 163px;
+  left: 903px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 474px;
+  width: 117px;
+}
+
+.my-device-high-con-new-user .rectangle-40-SJ7gxT {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 20px;
+  height: 163px;
+  left: 903px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 750px;
+  width: 117px;
+}
+
+.my-device-high-con-new-user .vector-F9DKFL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 50px;
+  left: 778px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 461px;
+  width: 50px;
+}
+
+.my-device-high-con-new-user .vector-Ajo34z {
+  background-color: transparent;
+  height: 50px;
+  left: 778px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 737px;
+  width: 50px;
+}
+
+.my-device-high-con-new-user .vector-YX3PUV {
+  background-color: transparent;
+  height: 50px;
+  left: 1271px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 461px;
+  width: 50px;
+}
+
+.my-device-high-con-new-user .vector-0BeYZD {
+  background-color: transparent;
+  height: 50px;
+  left: 1271px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 737px;
+  width: 50px;
+}
+
+.my-device-high-con-new-user .footer-SJ7gxT {
+  background-color: transparent;
+  border: 1px none;
+  height: 421px;
+  left: 0px;
+  position: absolute;
+  top: 1619px;
+  width: 1500px;
+}
+
+.my-device-high-con-new-user .rectangle-4-eeABxH {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  box-shadow: 0px -4px 7px 2px #00000040;
+  height: 421px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.my-device-high-con-new-user .logo-eeABxH {
+  background-color: transparent;
+  border: 1px none;
+  height: 65px;
+  left: 188px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 143px;
+  width: 140px;
+}
+
+.my-device-high-con-new-user .logo-cLyA4A {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .save-resources-with-our-web-app-eeABxH {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 165px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .how-it-works-eeABxH {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-high-con-new-user .about-us-eeABxH {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-high-con-new-user .blog-eeABxH {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 175px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-high-con-new-user .privacy-eeABxH {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 215px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-high-con-new-user .terms-of-service-eeABxH {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-high-con-new-user .copyright2022-our-ap-eeABxH {
+  background-color: transparent;
+  height: auto;
+  left: 978px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-high-con-new-user .templates-eeABxH {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 172px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-high-con-new-user .features-eeABxH {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-high-con-new-user .company-eeABxH {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-high-con-new-user .icon-twitter-eeABxH {
+  background-color: transparent;
+  height: 36px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 248px;
+  width: 36px;
+}
+
+.my-device-high-con-new-user .icon-instagram-eeABxH {
+  background-color: transparent;
+  height: 33px;
+  left: 290px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 252px;
+  width: 33px;
+}
+
+.my-device-high-con-new-user .youtube-eeABxH {
+  background-color: transparent;
+  height: 29px;
+  left: 348px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 253px;
+  width: 41px;
+}
+
+.my-device-high-con-new-user .icon-facebook-eeABxH {
+  background-color: transparent;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 36px;
+}
+
+.my-device-high-con-new-user .schedule-SJ7gxT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 92px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 432px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .dashboard-SJ7gxT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 92px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 148px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .tasks-SJ7gxT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 124px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 551px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .progress-SJ7gxT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 670px;
+  width: auto;
+}
+
+.my-device-high-con-new-user .how-to-SJ7gxT {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 789px;
+  width: auto;
+}

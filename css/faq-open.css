@@ -1,0 +1,718 @@
+/* screen - faq-open */
+
+.faq-open {
+  background-color: var(--white);
+  border: 1px none;
+  height: 1942px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.faq-open .frequently-asked-questions-jNOwq7 {
+  background-color: transparent;
+  color: var(--orangestandard);
+  font-family: var(--font-family-satoshi-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 71px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: auto;
+}
+
+.faq-open .footer-jNOwq7 {
+  background-color: transparent;
+  border: 1px none;
+  height: 421px;
+  left: -4px;
+  position: absolute;
+  top: 1521px;
+  width: 1500px;
+}
+
+.faq-open .rectangle-4-tL1Qrr {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  box-shadow: 0px -4px 7px 2px #00000040;
+  height: 421px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.faq-open .logo-tL1Qrr {
+  background-color: transparent;
+  border: 1px none;
+  height: 65px;
+  left: 188px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 143px;
+  width: 140px;
+}
+
+.faq-open .logo-qolxxZ {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.faq-open .save-resources-with-our-web-app-tL1Qrr {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 165px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  width: auto;
+}
+
+.faq-open .how-it-works-tL1Qrr {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.faq-open .about-us-tL1Qrr {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.faq-open .blog-tL1Qrr {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 175px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.faq-open .privacy-tL1Qrr {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 215px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.faq-open .terms-of-service-tL1Qrr {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.faq-open .copyright2022-our-ap-tL1Qrr {
+  background-color: transparent;
+  height: auto;
+  left: 978px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.faq-open .templates-tL1Qrr {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 172px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.faq-open .features-tL1Qrr {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.faq-open .company-tL1Qrr {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.faq-open .icon-twitter-tL1Qrr {
+  background-color: transparent;
+  height: 36px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 248px;
+  width: 36px;
+}
+
+.faq-open .icon-instagram-tL1Qrr {
+  background-color: transparent;
+  height: 33px;
+  left: 290px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 252px;
+  width: 33px;
+}
+
+.faq-open .youtube-tL1Qrr {
+  background-color: transparent;
+  height: 29px;
+  left: 348px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 253px;
+  width: 41px;
+}
+
+.faq-open .icon-facebook-tL1Qrr {
+  background-color: transparent;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 36px;
+}
+
+.faq-open .question-tile-jNOwq7 {
+  background-color: transparent;
+  height: 212px;
+  left: 67px;
+  position: absolute;
+  top: 256px;
+  width: 1131px;
+}
+
+.faq-open .rectangle-26-JOt1uQ {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 106px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1127px;
+}
+
+.faq-open .rectangle-27-JOt1uQ {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 0px 0px 20px 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 106px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 106px;
+  width: 1099px;
+}
+
+.faq-open .question-title-quest-JOt1uQ {
+  background-color: transparent;
+  color: var(--punga);
+  font-family: var(--font-family-satoshi-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: auto;
+}
+
+.faq-open .question-title-quest-hxxXjX {
+  background-color: transparent;
+  color: #f4b76c;
+  font-family: var(--font-family-satoshi-medium);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 134px;
+  width: auto;
+}
+
+.faq-open .vector-JOt1uQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 63px;
+  left: 1042px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 22px;
+  width: 63px;
+}
+
+.faq-open .question-tile-PIcAz0 {
+  background-color: transparent;
+  height: 106px;
+  left: 71px;
+  position: absolute;
+  top: 548px;
+  width: 1129px;
+}
+
+.faq-open .rectangle-26-Z6rSXD {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 106px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1127px;
+}
+
+.faq-open .question-title-quest-Z6rSXD {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: auto;
+}
+
+.faq-open .vector-Z6rSXD {
+  background-color: transparent;
+  height: 63px;
+  left: 1048px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 63px;
+}
+
+.faq-open .question-tile-qVYT46 {
+  background-color: transparent;
+  height: 106px;
+  left: 71px;
+  position: absolute;
+  top: 684px;
+  width: 1129px;
+}
+
+.faq-open .rectangle-26-hT9wWa {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 106px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1127px;
+}
+
+.faq-open .question-title-quest-hT9wWa {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: auto;
+}
+
+.faq-open .vector-hT9wWa {
+  background-color: transparent;
+  height: 63px;
+  left: 1048px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 63px;
+}
+
+.faq-open .question-tile-iwbQD1 {
+  background-color: transparent;
+  height: 106px;
+  left: 71px;
+  position: absolute;
+  top: 820px;
+  width: 1129px;
+}
+
+.faq-open .rectangle-26-95jkDf {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 106px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1127px;
+}
+
+.faq-open .question-title-quest-95jkDf {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: auto;
+}
+
+.faq-open .vector-95jkDf {
+  background-color: transparent;
+  height: 63px;
+  left: 1048px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 63px;
+}
+
+.faq-open .question-tile-GRWSLw {
+  background-color: transparent;
+  height: 106px;
+  left: 75px;
+  position: absolute;
+  top: 956px;
+  width: 1129px;
+}
+
+.faq-open .rectangle-26-Wvk4Yv {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 106px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1127px;
+}
+
+.faq-open .question-title-quest-Wvk4Yv {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: auto;
+}
+
+.faq-open .vector-Wvk4Yv {
+  background-color: transparent;
+  height: 63px;
+  left: 1048px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 63px;
+}
+
+.faq-open .question-tile-1Z3Jz2 {
+  background-color: transparent;
+  height: 106px;
+  left: 71px;
+  position: absolute;
+  top: 1092px;
+  width: 1129px;
+}
+
+.faq-open .rectangle-26-otG6Fy {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 106px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1127px;
+}
+
+.faq-open .question-title-quest-otG6Fy {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: auto;
+}
+
+.faq-open .vector-otG6Fy {
+  background-color: transparent;
+  height: 63px;
+  left: 1048px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 63px;
+}
+
+.faq-open .navbar-jNOwq7 {
+  background-color: transparent;
+  border: 1px none;
+  box-shadow: 0px 4px 7px #00000075;
+  height: 81px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1500px;
+}
+
+.faq-open .group-3-Tpv4bG {
+  background-color: transparent;
+  height: 81px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1378px;
+}
+
+.faq-open .rectangle-18-kZljpX {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  height: 81px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.faq-open .logo-kZljpX {
+  background-color: transparent;
+  border: 1px none;
+  cursor: pointer;
+  height: 65px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 140px;
+}
+
+.faq-open .logo-HpziXW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.faq-open .features-kZljpX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 337px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.faq-open .how-to-kZljpX {
+  background-color: transparent;
+  height: auto;
+  left: 489px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.faq-open .log-in-kZljpX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1282px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 21px;
+  width: auto;
+}
+
+.faq-open .sign-up-kZljpX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1178px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 21px;
+  width: auto;
+}
+
+.faq-open .blog-kZljpX {
+  background-color: transparent;
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-satoshi-regular);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 631px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.faq-open .faq-kZljpX {
+  background-color: transparent;
+  height: auto;
+  left: 744px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.faq-open .line-1-Tpv4bG {
+  background-color: transparent;
+  height: 3px;
+  left: 733px;
+  position: absolute;
+  top: 63px;
+  width: 70px;
+}

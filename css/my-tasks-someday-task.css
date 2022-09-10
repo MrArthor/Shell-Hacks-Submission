@@ -1,0 +1,755 @@
+/* screen - my-tasks-someday-task */
+
+.my-tasks-someday-task {
+  background-color: var(--white);
+  border: 1px none;
+  height: 2029px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.my-tasks-someday-task .union-LPbUbU {
+  background-color: transparent;
+  height: 1358px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+
+.my-tasks-someday-task .logo-LPbUbU {
+  background-color: transparent;
+  border: 1px none;
+  cursor: pointer;
+  height: 65px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 140px;
+}
+
+.my-tasks-someday-task .logo-x2YXEF {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.my-tasks-someday-task .blog-LPbUbU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-tasks-someday-task .faq-LPbUbU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 505px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-tasks-someday-task .icon-settings-LPbUbU {
+  background-color: transparent;
+  height: 26px;
+  left: 1198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 25px;
+}
+
+.my-tasks-someday-task .vector-LPbUbU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 1268px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 55px;
+}
+
+.my-tasks-someday-task .tasks-LPbUbU {
+  background-color: transparent;
+  height: auto;
+  left: 120px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 551px;
+  width: auto;
+}
+
+.my-tasks-someday-task .tasks-mnPlAg {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 172px;
+  width: auto;
+}
+
+.my-tasks-someday-task .footer-LPbUbU {
+  background-color: transparent;
+  border: 1px none;
+  height: 421px;
+  left: 0px;
+  position: absolute;
+  top: 1608px;
+  width: 1500px;
+}
+
+.my-tasks-someday-task .rectangle-4-ZgpFGx {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  box-shadow: 0px -4px 7px 2px #00000040;
+  height: 421px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.my-tasks-someday-task .logo-ZgpFGx {
+  background-color: transparent;
+  border: 1px none;
+  height: 65px;
+  left: 188px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 143px;
+  width: 140px;
+}
+
+.my-tasks-someday-task .logo-wPNVUK {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.my-tasks-someday-task .save-resources-with-our-web-app-ZgpFGx {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 165px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  width: auto;
+}
+
+.my-tasks-someday-task .how-it-works-ZgpFGx {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-someday-task .about-us-ZgpFGx {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-someday-task .blog-ZgpFGx {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 175px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-someday-task .privacy-ZgpFGx {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 215px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-someday-task .terms-of-service-ZgpFGx {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-someday-task .copyright2022-our-ap-ZgpFGx {
+  background-color: transparent;
+  height: auto;
+  left: 978px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-someday-task .templates-ZgpFGx {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 172px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-someday-task .features-ZgpFGx {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-someday-task .company-ZgpFGx {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-someday-task .icon-twitter-ZgpFGx {
+  background-color: transparent;
+  height: 36px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 248px;
+  width: 36px;
+}
+
+.my-tasks-someday-task .icon-instagram-ZgpFGx {
+  background-color: transparent;
+  height: 33px;
+  left: 290px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 252px;
+  width: 33px;
+}
+
+.my-tasks-someday-task .youtube-ZgpFGx {
+  background-color: transparent;
+  height: 29px;
+  left: 348px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 253px;
+  width: 41px;
+}
+
+.my-tasks-someday-task .icon-facebook-ZgpFGx {
+  background-color: transparent;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 36px;
+}
+
+.my-tasks-someday-task .my-tasks-LPbUbU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 423px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 325px;
+  width: auto;
+}
+
+.my-tasks-someday-task .rectangle-47-LPbUbU {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 86px;
+  left: 1052px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 316px;
+  width: 256px;
+}
+
+.my-tasks-someday-task .completed-LPbUbU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 732px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 325px;
+  width: auto;
+}
+
+.my-tasks-someday-task .someday-LPbUbU {
+  background-color: transparent;
+  height: auto;
+  left: 1080px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 325px;
+  width: auto;
+}
+
+.my-tasks-someday-task .someday-task-list-LPbUbU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 140px;
+  left: 416px;
+  position: absolute;
+  top: 509px;
+  width: 894px;
+}
+
+.my-tasks-someday-task .rectangle-42-BDpVX8 {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 140px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 892px;
+}
+
+.my-tasks-someday-task .group-9-BDpVX8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 30px;
+  position: absolute;
+  top: 70px;
+  width: 167px;
+}
+
+.my-tasks-someday-task .rectangle-30-intjZK {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 165px;
+}
+
+.my-tasks-someday-task .set-due-date-intjZK {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.my-tasks-someday-task .vector-BDpVX8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 808px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 24px;
+}
+
+.my-tasks-someday-task .rectangle-43-BDpVX8 {
+  background-color: var(--alien-armpit);
+  border: 1px none;
+  border-radius: 0px 10px 10px 0px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 140px;
+  left: 864px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 28px;
+}
+
+.my-tasks-someday-task .task-name-task-name-task-name-BDpVX8 {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.my-tasks-someday-task .someday-task-list-mnPlAg {
+  background-color: transparent;
+  height: 140px;
+  left: 416px;
+  position: absolute;
+  top: 706px;
+  width: 894px;
+}
+
+.my-tasks-someday-task .rectangle-42-BsEDNx {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 140px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 892px;
+}
+
+.my-tasks-someday-task .group-9-BsEDNx {
+  background-color: transparent;
+  height: 48px;
+  left: 30px;
+  position: absolute;
+  top: 70px;
+  width: 167px;
+}
+
+.my-tasks-someday-task .rectangle-30-LIzoSY {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 165px;
+}
+
+.my-tasks-someday-task .set-due-date-LIzoSY {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.my-tasks-someday-task .vector-BsEDNx {
+  background-color: transparent;
+  height: 24px;
+  left: 808px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 24px;
+}
+
+.my-tasks-someday-task .rectangle-43-BsEDNx {
+  background-color: var(--alien-armpit);
+  border: 1px none;
+  border-radius: 0px 10px 10px 0px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 140px;
+  left: 864px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 28px;
+}
+
+.my-tasks-someday-task .task-name-task-name-task-name-BsEDNx {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.my-tasks-someday-task .someday-task-list-zgufXB {
+  background-color: transparent;
+  height: 140px;
+  left: 416px;
+  position: absolute;
+  top: 903px;
+  width: 894px;
+}
+
+.my-tasks-someday-task .rectangle-42-vxrUdt {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 140px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 892px;
+}
+
+.my-tasks-someday-task .group-9-vxrUdt {
+  background-color: transparent;
+  height: 48px;
+  left: 30px;
+  position: absolute;
+  top: 70px;
+  width: 167px;
+}
+
+.my-tasks-someday-task .rectangle-30-5PxlkM {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 165px;
+}
+
+.my-tasks-someday-task .set-due-date-5PxlkM {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.my-tasks-someday-task .vector-vxrUdt {
+  background-color: transparent;
+  height: 24px;
+  left: 808px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 24px;
+}
+
+.my-tasks-someday-task .rectangle-43-vxrUdt {
+  background-color: var(--gold-tips);
+  border: 1px none;
+  border-radius: 0px 10px 10px 0px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 140px;
+  left: 864px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 28px;
+}
+
+.my-tasks-someday-task .task-name-task-name-task-name-vxrUdt {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: auto;
+}
+
+.my-tasks-someday-task .dashboard-LPbUbU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: auto;
+}
+
+.my-tasks-someday-task .my-devices-LPbUbU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 76px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 284px;
+  width: auto;
+}
+
+.my-tasks-someday-task .schedule-LPbUbU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 93px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 408px;
+  width: auto;
+}
+
+.my-tasks-someday-task .progress-LPbUbU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 682px;
+  width: auto;
+}
+
+.my-tasks-someday-task .how-to-LPbUbU {
+  background-color: transparent;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 801px;
+  width: auto;
+}

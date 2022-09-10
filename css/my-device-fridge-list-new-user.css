@@ -1,0 +1,530 @@
+/* screen - my-device-fridge-list-new-user */
+
+.my-device-fridge-list-new-user {
+  background-color: var(--white);
+  border: 1px none;
+  height: 2044px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.my-device-fridge-list-new-user .rectangle-60-SfgxEA {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 264px;
+  left: 595px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 606px;
+  width: 466px;
+}
+
+.my-device-fridge-list-new-user .union-SfgxEA {
+  background-color: transparent;
+  height: 1358px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+
+.my-device-fridge-list-new-user .logo-SfgxEA {
+  background-color: transparent;
+  border: 1px none;
+  cursor: pointer;
+  height: 65px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 140px;
+}
+
+.my-device-fridge-list-new-user .logo-jbJ54Y {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .blog-SfgxEA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .faq-SfgxEA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 505px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .icon-settings-SfgxEA {
+  background-color: transparent;
+  height: 26px;
+  left: 1198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 25px;
+}
+
+.my-device-fridge-list-new-user .vector-SfgxEA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 1268px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 55px;
+}
+
+.my-device-fridge-list-new-user .my-devices-SfgxEA {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 287px;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .my-devices-xVW5nh {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 172px;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .high-consumption-SfgxEA {
+  background-color: transparent;
+  color: var(--orangedark-3);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 392px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 338px;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .fridge-SfgxEA {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 473px;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .add-SfgxEA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 183px;
+  left: 668px;
+  position: absolute;
+  top: 633px;
+  width: 344px;
+}
+
+.my-device-fridge-list-new-user .lets-set-up-hC3ocr {
+  background-color: transparent;
+  color: var(--orangelight-2);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .rectangle-14-hC3ocr {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 59px;
+  left: 71px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 124px;
+  width: 193px;
+}
+
+.my-device-fridge-list-new-user .group-2-hC3ocr {
+  background-color: transparent;
+  height: 54px;
+  left: 105px;
+  position: absolute;
+  top: 127px;
+  width: 128px;
+}
+
+.my-device-fridge-list-new-user .add-BcdkSl {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .vector-BcdkSl {
+  background-color: transparent;
+  height: 35px;
+  left: 91px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 35px;
+}
+
+.my-device-fridge-list-new-user .footer-SfgxEA {
+  background-color: transparent;
+  border: 1px none;
+  height: 421px;
+  left: 0px;
+  position: absolute;
+  top: 1623px;
+  width: 1500px;
+}
+
+.my-device-fridge-list-new-user .rectangle-4-eyVyuZ {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  box-shadow: 0px -4px 7px 2px #00000040;
+  height: 421px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.my-device-fridge-list-new-user .logo-eyVyuZ {
+  background-color: transparent;
+  border: 1px none;
+  height: 65px;
+  left: 188px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 143px;
+  width: 140px;
+}
+
+.my-device-fridge-list-new-user .logo-JejN1c {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .save-resources-with-our-web-app-eyVyuZ {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 165px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .how-it-works-eyVyuZ {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .about-us-eyVyuZ {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .blog-eyVyuZ {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 175px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .privacy-eyVyuZ {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 215px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .terms-of-service-eyVyuZ {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .copyright2022-our-ap-eyVyuZ {
+  background-color: transparent;
+  height: auto;
+  left: 978px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .templates-eyVyuZ {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 172px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .features-eyVyuZ {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .company-eyVyuZ {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .icon-twitter-eyVyuZ {
+  background-color: transparent;
+  height: 36px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 248px;
+  width: 36px;
+}
+
+.my-device-fridge-list-new-user .icon-instagram-eyVyuZ {
+  background-color: transparent;
+  height: 33px;
+  left: 290px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 252px;
+  width: 33px;
+}
+
+.my-device-fridge-list-new-user .youtube-eyVyuZ {
+  background-color: transparent;
+  height: 29px;
+  left: 348px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 253px;
+  width: 41px;
+}
+
+.my-device-fridge-list-new-user .icon-facebook-eyVyuZ {
+  background-color: transparent;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 36px;
+}
+
+.my-device-fridge-list-new-user .schedule-SfgxEA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 92px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 432px;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .dashboard-SfgxEA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 92px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 148px;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .tasks-SfgxEA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 124px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 551px;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .progress-SfgxEA {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 670px;
+  width: auto;
+}
+
+.my-device-fridge-list-new-user .how-to-SfgxEA {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 789px;
+  width: auto;
+}

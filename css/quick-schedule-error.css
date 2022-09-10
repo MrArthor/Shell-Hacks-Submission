@@ -1,0 +1,104 @@
+/* screen - quick-schedule-error */
+
+.quick-schedule-error {
+  background-color: var(--black-2);
+  border: 1px none;
+  height: 2040px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+#overlay-quick-schedule-error {
+  background-color: var(--black-2);
+}
+
+.overlay .quick-schedule-error {
+  background-color: #00000000;
+}
+
+.quick-schedule-error .quick-schedule-error-63p9vr {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 20px;
+  height: 329px;
+  left: calc(50vw - 258.5px);
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  top: calc(50vh - 164.5px);
+  width: 517px;
+}
+
+.quick-schedule-error .vector-jF9RHH {
+  background-color: transparent;
+  height: 83px;
+  left: 217px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 83px;
+}
+
+.quick-schedule-error .no-device-added-jF9RHH {
+  background-color: transparent;
+  color: var(--orangestandard);
+  font-family: var(--font-family-satoshi-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0px;
+  line-height: 80px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 137px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.quick-schedule-error .button-jF9RHH {
+  align-items: center;
+  background-color: var(--orangestandard);
+  border: 1px none;
+  border-radius: 50px;
+  box-shadow: 0px 4px 8px #00000078;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 59px;
+  justify-content: space-around;
+  left: 104px;
+  mix-blend-mode: normal;
+  padding: 18px 33px;
+  position: absolute;
+  top: 218px;
+  width: 301px;
+}
+
+.quick-schedule-error .add-device-Zd1WDr {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-bottom: -12px;
+  margin-top: -14px;
+  min-width: 227px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.quick-schedule-error .icon-close-jF9RHH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 454px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25px;
+  width: 43px;
+}

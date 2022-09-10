@@ -1,0 +1,811 @@
+/* screen - my-schedule-energy-info */
+
+.my-schedule-energy-info {
+  background-color: var(--white);
+  border: 1px none;
+  height: 2645px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.my-schedule-energy-info .union-oqlamS {
+  background-color: transparent;
+  height: 1358px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+
+.my-schedule-energy-info .logo-oqlamS {
+  background-color: transparent;
+  border: 1px none;
+  cursor: pointer;
+  height: 65px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 140px;
+}
+
+.my-schedule-energy-info .logo-xqLqfX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.my-schedule-energy-info .blog-oqlamS {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-schedule-energy-info .faq-oqlamS {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 505px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-schedule-energy-info .icon-settings-oqlamS {
+  background-color: transparent;
+  height: 26px;
+  left: 1198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 25px;
+}
+
+.my-schedule-energy-info .vector-oqlamS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 1268px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 55px;
+}
+
+.my-schedule-energy-info .schedule-oqlamS {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 432px;
+  width: auto;
+}
+
+.my-schedule-energy-info .schedule-IupNgK {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 172px;
+  width: auto;
+}
+
+.my-schedule-energy-info .fridge-oqlamS {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 353px;
+  width: auto;
+}
+
+.my-schedule-energy-info .device-name-set-by-user-oqlamS {
+  background-color: transparent;
+  height: auto;
+  left: 692px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 584px;
+  width: auto;
+}
+
+.my-schedule-energy-info .model-number-oqlamS {
+  background-color: transparent;
+  color: var(--orangedark-3);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 692px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 666px;
+  width: auto;
+}
+
+.my-schedule-energy-info .set-up-schedule-oqlamS {
+  background-color: transparent;
+  height: auto;
+  left: 416px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 927px;
+  width: auto;
+}
+
+.my-schedule-energy-info .consumption-hours-oqlamS {
+  background-color: transparent;
+  height: auto;
+  left: 416px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1082px;
+  width: auto;
+}
+
+.my-schedule-energy-info .set-as-preset-oqlamS {
+  background-color: transparent;
+  color: var(--orangedark-3);
+  font-family: var(--font-family-satoshi-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1098px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 930px;
+  width: auto;
+}
+
+.my-schedule-energy-info .select-importance-level-oqlamS {
+  background-color: transparent;
+  height: auto;
+  left: 419px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1429px;
+  width: auto;
+}
+
+.my-schedule-energy-info .high-consumption-oqlamS {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 428px;
+  width: auto;
+}
+
+.my-schedule-energy-info .ellipse-9-oqlamS {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 121px;
+  box-shadow: 0px 4px 7px #00000054;
+  height: 242px;
+  left: 390px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 541px;
+  width: 242px;
+}
+
+.my-schedule-energy-info .rectangle-42-oqlamS {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 79px;
+  left: 416px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1147px;
+  width: 624px;
+}
+
+.my-schedule-energy-info .select-range-oqlamS {
+  background-color: transparent;
+  height: auto;
+  left: 437px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1164px;
+  width: auto;
+}
+
+.my-schedule-energy-info .optimal-consumption-suggestion-oqlamS {
+  background-color: transparent;
+  color: var(--orangedark-2);
+  font-family: var(--font-family-satoshi-regular);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 419px;
+  letter-spacing: 0px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1258px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-energy-info .vector-IupNgK {
+  background-color: transparent;
+  height: 17px;
+  left: 996px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1182px;
+  width: 27px;
+}
+
+.my-schedule-energy-info .rectangle-45-oqlamS {
+  background-color: var(--sealight-1);
+  border: 1px none;
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 739px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1251px;
+  width: 164px;
+}
+
+.my-schedule-energy-info .x2-3-hours-oqlamS {
+  background-color: transparent;
+  height: auto;
+  left: 767px;
+  letter-spacing: 0px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1261px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-energy-info .imp-level-oqlamS {
+  background-color: transparent;
+  height: 43px;
+  left: 422px;
+  position: absolute;
+  top: 1491px;
+  width: 85px;
+}
+
+.my-schedule-energy-info .rectangle-46-SOJlPM {
+  background-color: var(--red);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.my-schedule-energy-info .high-SOJlPM {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.my-schedule-energy-info .imp-level-IupNgK {
+  background-color: transparent;
+  height: 43px;
+  left: 525px;
+  position: absolute;
+  top: 1491px;
+  width: 85px;
+}
+
+.my-schedule-energy-info .rectangle-46-pN2owv {
+  background-color: var(--gold-tips);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.my-schedule-energy-info .mid-pN2owv {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.my-schedule-energy-info .imp-level-yhkVam {
+  background-color: transparent;
+  height: 43px;
+  left: 628px;
+  position: absolute;
+  top: 1491px;
+  width: 85px;
+}
+
+.my-schedule-energy-info .rectangle-46-tagbgx {
+  background-color: var(--alien-armpit);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.my-schedule-energy-info .low-tagbgx {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.my-schedule-energy-info .button-oqlamS {
+  align-items: center;
+  background-color: var(--orangestandard);
+  border: 1px none;
+  border-radius: 50px;
+  box-shadow: 0px 4px 4px #0000006e;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 99px;
+  justify-content: space-around;
+  left: 485px;
+  mix-blend-mode: normal;
+  padding: 18px 33px;
+  position: absolute;
+  top: 1799px;
+  width: 397px;
+}
+
+.my-schedule-energy-info .save-usage-PhgbQQ {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  min-width: 226px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.my-schedule-energy-info .footer-oqlamS {
+  background-color: transparent;
+  border: 1px none;
+  height: 421px;
+  left: 0px;
+  position: absolute;
+  top: 2227px;
+  width: 1500px;
+}
+
+.my-schedule-energy-info .rectangle-4-f7e7th {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  box-shadow: 0px -4px 7px 2px #00000040;
+  height: 421px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.my-schedule-energy-info .logo-f7e7th {
+  background-color: transparent;
+  border: 1px none;
+  height: 65px;
+  left: 188px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 143px;
+  width: 140px;
+}
+
+.my-schedule-energy-info .logo-8GSNfq {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.my-schedule-energy-info .save-resources-with-our-web-app-f7e7th {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 165px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  width: auto;
+}
+
+.my-schedule-energy-info .how-it-works-f7e7th {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-energy-info .about-us-f7e7th {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-energy-info .blog-f7e7th {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 175px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-energy-info .privacy-f7e7th {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 215px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-energy-info .terms-of-service-f7e7th {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-energy-info .copyright2022-our-ap-f7e7th {
+  background-color: transparent;
+  height: auto;
+  left: 978px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-energy-info .templates-f7e7th {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 172px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-energy-info .features-f7e7th {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-energy-info .company-f7e7th {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-schedule-energy-info .icon-twitter-f7e7th {
+  background-color: transparent;
+  height: 36px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 248px;
+  width: 36px;
+}
+
+.my-schedule-energy-info .icon-instagram-f7e7th {
+  background-color: transparent;
+  height: 33px;
+  left: 290px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 252px;
+  width: 33px;
+}
+
+.my-schedule-energy-info .youtube-f7e7th {
+  background-color: transparent;
+  height: 29px;
+  left: 348px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 253px;
+  width: 41px;
+}
+
+.my-schedule-energy-info .icon-facebook-f7e7th {
+  background-color: transparent;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 36px;
+}
+
+.my-schedule-energy-info .liquid-button-oqlamS {
+  background-color: transparent;
+  height: 47px;
+  left: 969px;
+  position: absolute;
+  top: 931px;
+  width: 107px;
+}
+
+.my-schedule-energy-info .liquid-switch-zAFDyg {
+  background-color: transparent;
+  border: 1px none;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 107px;
+}
+
+.my-schedule-energy-info .switch-GeDRxn {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 30px;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 107px;
+}
+
+.my-schedule-energy-info .button-GeDRxn {
+  background-color: var(--cloudy);
+  border: 1px none;
+  border-radius: 20px;
+  cursor: pointer;
+  height: 40px;
+  left: 8px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 3px;
+  transition: all 1s ease-in;
+  width: 40px;
+}
+
+.my-schedule-energy-info .button-GeDRxn:hover {
+  transform: translate(5px, 0);
+}
+
+.my-schedule-energy-info .dashboard-oqlamS {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 92px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 148px;
+  width: auto;
+}
+
+.my-schedule-energy-info .my-devices-oqlamS {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 272px;
+  width: auto;
+}
+
+.my-schedule-energy-info .tasks-oqlamS {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 124px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 551px;
+  width: auto;
+}
+
+.my-schedule-energy-info .progress-oqlamS {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 670px;
+  width: auto;
+}
+
+.my-schedule-energy-info .how-to-oqlamS {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 789px;
+  width: auto;
+}

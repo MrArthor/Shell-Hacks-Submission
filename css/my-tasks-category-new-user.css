@@ -1,0 +1,826 @@
+/* screen - my-tasks-category-new-user */
+
+.my-tasks-category-new-user {
+  background-color: var(--white);
+  border: 1px none;
+  height: 2203px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.my-tasks-category-new-user .union-pxveGa {
+  background-color: transparent;
+  height: 1358px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+
+.my-tasks-category-new-user .logo-pxveGa {
+  background-color: transparent;
+  border: 1px none;
+  cursor: pointer;
+  height: 65px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 140px;
+}
+
+.my-tasks-category-new-user .logo-ULigMZ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .blog-pxveGa {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .faq-pxveGa {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 505px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .icon-settings-pxveGa {
+  background-color: transparent;
+  height: 26px;
+  left: 1198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 25px;
+}
+
+.my-tasks-category-new-user .vector-pxveGa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 1268px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 55px;
+}
+
+.my-tasks-category-new-user .tasks-pxveGa {
+  background-color: transparent;
+  height: auto;
+  left: 120px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 551px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .tasks-mN90Im {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 172px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .high-consumption-pxveGa {
+  background-color: transparent;
+  color: var(--orangedark-3);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 392px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 500px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .task-category-tv-pxveGa {
+  background-color: transparent;
+  height: 216px;
+  left: 885px;
+  position: absolute;
+  top: 610px;
+  width: 447px;
+}
+
+.my-tasks-category-new-user .rectangle-32-6xjmtt {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 216px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 445px;
+}
+
+.my-tasks-category-new-user .television-6xjmtt {
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .group-10-6xjmtt {
+  background-color: transparent;
+  height: 48px;
+  left: 164px;
+  position: absolute;
+  top: 134px;
+  width: 119px;
+}
+
+.my-tasks-category-new-user .rectangle-30-JwJ9bt {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.my-tasks-category-new-user .set-task-JwJ9bt {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .rectangle-34-6xjmtt {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 20px;
+  height: 163px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 117px;
+}
+
+.my-tasks-category-new-user .footer-pxveGa {
+  background-color: transparent;
+  border: 1px none;
+  height: 421px;
+  left: 0px;
+  position: absolute;
+  top: 1786px;
+  width: 1500px;
+}
+
+.my-tasks-category-new-user .rectangle-4-Mx2Rgg {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  box-shadow: 0px -4px 7px 2px #00000040;
+  height: 421px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.my-tasks-category-new-user .logo-Mx2Rgg {
+  background-color: transparent;
+  border: 1px none;
+  height: 65px;
+  left: 188px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 143px;
+  width: 140px;
+}
+
+.my-tasks-category-new-user .logo-Ehrp0G {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .save-resources-with-our-web-app-Mx2Rgg {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 165px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .how-it-works-Mx2Rgg {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-category-new-user .about-us-Mx2Rgg {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-category-new-user .blog-Mx2Rgg {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 175px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-category-new-user .privacy-Mx2Rgg {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 215px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-category-new-user .terms-of-service-Mx2Rgg {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-category-new-user .copyright2022-our-ap-Mx2Rgg {
+  background-color: transparent;
+  height: auto;
+  left: 978px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-category-new-user .templates-Mx2Rgg {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 172px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-category-new-user .features-Mx2Rgg {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-category-new-user .company-Mx2Rgg {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-category-new-user .icon-twitter-Mx2Rgg {
+  background-color: transparent;
+  height: 36px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 248px;
+  width: 36px;
+}
+
+.my-tasks-category-new-user .icon-instagram-Mx2Rgg {
+  background-color: transparent;
+  height: 33px;
+  left: 290px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 252px;
+  width: 33px;
+}
+
+.my-tasks-category-new-user .youtube-Mx2Rgg {
+  background-color: transparent;
+  height: 29px;
+  left: 348px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 253px;
+  width: 41px;
+}
+
+.my-tasks-category-new-user .icon-facebook-Mx2Rgg {
+  background-color: transparent;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 36px;
+}
+
+.my-tasks-category-new-user .group-15-pxveGa {
+  background-color: transparent;
+  height: 86px;
+  left: 392px;
+  position: absolute;
+  top: 316px;
+  width: 243px;
+}
+
+.my-tasks-category-new-user .rectangle-47-lY4xcN {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 86px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 241px;
+}
+
+.my-tasks-category-new-user .my-tasks-lY4xcN {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .completed-pxveGa {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 732px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 325px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .someday-pxveGa {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1080px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 325px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .task-category-fridge-pxveGa {
+  background-color: transparent;
+  height: 216px;
+  left: 392px;
+  position: absolute;
+  top: 610px;
+  width: 447px;
+}
+
+.my-tasks-category-new-user .rectangle-29-nMH7so {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 216px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 445px;
+}
+
+.my-tasks-category-new-user .fridge-nMH7so {
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .group-9-nMH7so {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 154px;
+  position: absolute;
+  top: 134px;
+  width: 119px;
+}
+
+.my-tasks-category-new-user .rectangle-30-OIMJO3 {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.my-tasks-category-new-user .set-task-OIMJO3 {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .rectangle-31-nMH7so {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 20px;
+  height: 163px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 117px;
+}
+
+.my-tasks-category-new-user .task-category-oven-pxveGa {
+  background-color: transparent;
+  height: 216px;
+  left: 392px;
+  position: absolute;
+  top: 886px;
+  width: 447px;
+}
+
+.my-tasks-category-new-user .rectangle-35-HwvYjg {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 216px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 445px;
+}
+
+.my-tasks-category-new-user .microwave-HwvYjg {
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .group-11-HwvYjg {
+  background-color: transparent;
+  height: 48px;
+  left: 154px;
+  position: absolute;
+  top: 134px;
+  width: 119px;
+}
+
+.my-tasks-category-new-user .rectangle-30-TzVs1G {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.my-tasks-category-new-user .set-task-TzVs1G {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .rectangle-39-HwvYjg {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 20px;
+  height: 163px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 117px;
+}
+
+.my-tasks-category-new-user .task-category-machine-pxveGa {
+  background-color: transparent;
+  height: 216px;
+  left: 885px;
+  position: absolute;
+  top: 886px;
+  width: 447px;
+}
+
+.my-tasks-category-new-user .rectangle-36-jIH5Yr {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 216px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 445px;
+}
+
+.my-tasks-category-new-user .washing-machine-jIH5Yr {
+  background-color: transparent;
+  height: auto;
+  left: 153px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .group-12-jIH5Yr {
+  background-color: transparent;
+  height: 48px;
+  left: 164px;
+  position: absolute;
+  top: 134px;
+  width: 119px;
+}
+
+.my-tasks-category-new-user .rectangle-30-bwFNBi {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.my-tasks-category-new-user .set-task-bwFNBi {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .rectangle-40-jIH5Yr {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 20px;
+  height: 163px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 117px;
+}
+
+.my-tasks-category-new-user .dashboard-pxveGa {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .my-devices-pxveGa {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 76px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 284px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .schedule-pxveGa {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 93px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 408px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .progress-pxveGa {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 682px;
+  width: auto;
+}
+
+.my-tasks-category-new-user .how-to-pxveGa {
+  background-color: transparent;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 801px;
+  width: auto;
+}

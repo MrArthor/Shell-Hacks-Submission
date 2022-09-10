@@ -1,0 +1,640 @@
+/* screen - my-devices-new-user */
+
+.my-devices-new-user {
+  background-color: var(--white);
+  border: 1px none;
+  height: 2040px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.my-devices-new-user .union-MGEfk7 {
+  background-color: transparent;
+  height: 1358px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+
+.my-devices-new-user .logo-MGEfk7 {
+  background-color: transparent;
+  border: 1px none;
+  cursor: pointer;
+  height: 65px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 140px;
+}
+
+.my-devices-new-user .logo-WxOrLP {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.my-devices-new-user .blog-MGEfk7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-devices-new-user .faq-MGEfk7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 505px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-devices-new-user .icon-settings-MGEfk7 {
+  background-color: transparent;
+  height: 26px;
+  left: 1198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 25px;
+}
+
+.my-devices-new-user .vector-MGEfk7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 1268px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 55px;
+}
+
+.my-devices-new-user .my-devices-MGEfk7 {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 287px;
+  width: auto;
+}
+
+.my-devices-new-user .my-devices-sY0j7l {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 172px;
+  width: auto;
+}
+
+.my-devices-new-user .category-cards-MGEfk7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 238px;
+  left: 385px;
+  position: absolute;
+  top: 330px;
+  width: 885px;
+}
+
+.my-devices-new-user .rectangle-27-9narEx {
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 30px;
+  box-shadow: 0px 4px 8px #0000004f;
+  height: 238px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 883px;
+}
+
+.my-devices-new-user .rectangle-28-9narEx {
+  background: linear-gradient(
+    180deg,
+    rgba(
+        248.0000004172325,
+        162.00002074241638,
+        54.99999672174454,
+        0.15000000596046448
+      )
+      0%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 30px;
+  box-shadow: 0px 4px 8px #0000004f;
+  height: 238px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 883px;
+}
+
+.my-devices-new-user .high-consumption-devices-9narEx {
+  background-color: transparent;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: auto;
+}
+
+.my-devices-new-user .category-cards-sY0j7l {
+  background-color: transparent;
+  height: 238px;
+  left: 385px;
+  position: absolute;
+  top: 998px;
+  width: 885px;
+}
+
+.my-devices-new-user .rectangle-27-HExK1a {
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 30px;
+  box-shadow: 0px 4px 8px #0000004f;
+  height: 238px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 883px;
+}
+
+.my-devices-new-user .rectangle-28-HExK1a {
+  background: linear-gradient(
+    180deg,
+    rgba(
+        54.18750151991844,
+        144.49999898672104,
+        141.76324903964996,
+        0.05999999865889549
+      )
+      0%,
+    rgb(54.18750151991844, 144.49999898672104, 141.76324903964996) 100%
+  );
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 30px;
+  box-shadow: 0px 4px 8px #0000004f;
+  height: 238px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 883px;
+}
+
+.my-devices-new-user .low-consumption-devices-HExK1a {
+  background-color: transparent;
+  color: var(--seadark-1);
+  font-family: var(--font-family-satoshi-black);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: auto;
+}
+
+.my-devices-new-user .category-cards-UPuS4W {
+  background-color: transparent;
+  height: 238px;
+  left: 385px;
+  position: absolute;
+  top: 664px;
+  width: 885px;
+}
+
+.my-devices-new-user .rectangle-27-GmlcWp {
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 30px;
+  box-shadow: 0px 4px 8px #0000004f;
+  height: 238px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 883px;
+}
+
+.my-devices-new-user .rectangle-28-GmlcWp {
+  background: linear-gradient(
+    180deg,
+    rgba(
+        242.24999696016312,
+        177.13821083307266,
+        11.103125810623169,
+        0.05999999865889549
+      )
+      0%,
+    rgb(242.24999696016312, 177.13821083307266, 11.103125810623169) 100%
+  );
+  background-color: transparent;
+  border: 1px none;
+  border-radius: 30px;
+  box-shadow: 0px 4px 8px #0000004f;
+  height: 238px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 883px;
+}
+
+.my-devices-new-user .medium-consumption-devices-GmlcWp {
+  background-color: transparent;
+  color: var(--yellowdark-3);
+  font-family: var(--font-family-satoshi-black);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: auto;
+}
+
+.my-devices-new-user .highenergy-1-MGEfk7 {
+  background-color: transparent;
+  height: 314px;
+  left: 855px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 267px;
+  width: 384px;
+}
+
+.my-devices-new-user .highenergy-2-MGEfk7 {
+  background-color: transparent;
+  height: 314px;
+  left: 861px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 606px;
+  width: 384px;
+}
+
+.my-devices-new-user .highenergy-3-MGEfk7 {
+  background-color: transparent;
+  height: 314px;
+  left: 861px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 945px;
+  width: 384px;
+}
+
+.my-devices-new-user .footer-MGEfk7 {
+  background-color: transparent;
+  border: 1px none;
+  height: 421px;
+  left: 0px;
+  position: absolute;
+  top: 1619px;
+  width: 1500px;
+}
+
+.my-devices-new-user .rectangle-4-Pii5Fo {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  box-shadow: 0px -4px 7px 2px #00000040;
+  height: 421px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.my-devices-new-user .logo-Pii5Fo {
+  background-color: transparent;
+  border: 1px none;
+  height: 65px;
+  left: 188px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 143px;
+  width: 140px;
+}
+
+.my-devices-new-user .logo-Nxx2yd {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.my-devices-new-user .save-resources-with-our-web-app-Pii5Fo {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 165px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  width: auto;
+}
+
+.my-devices-new-user .how-it-works-Pii5Fo {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-devices-new-user .about-us-Pii5Fo {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-devices-new-user .blog-Pii5Fo {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 175px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-devices-new-user .privacy-Pii5Fo {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 215px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-devices-new-user .terms-of-service-Pii5Fo {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-devices-new-user .copyright2022-our-ap-Pii5Fo {
+  background-color: transparent;
+  height: auto;
+  left: 978px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-devices-new-user .templates-Pii5Fo {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 172px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-devices-new-user .features-Pii5Fo {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-devices-new-user .company-Pii5Fo {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-devices-new-user .icon-twitter-Pii5Fo {
+  background-color: transparent;
+  height: 36px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 248px;
+  width: 36px;
+}
+
+.my-devices-new-user .icon-instagram-Pii5Fo {
+  background-color: transparent;
+  height: 33px;
+  left: 290px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 252px;
+  width: 33px;
+}
+
+.my-devices-new-user .youtube-Pii5Fo {
+  background-color: transparent;
+  height: 29px;
+  left: 348px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 253px;
+  width: 41px;
+}
+
+.my-devices-new-user .icon-facebook-Pii5Fo {
+  background-color: transparent;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 36px;
+}
+
+.my-devices-new-user .schedule-MGEfk7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 92px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 432px;
+  width: auto;
+}
+
+.my-devices-new-user .dashboard-MGEfk7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 92px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 148px;
+  width: auto;
+}
+
+.my-devices-new-user .tasks-MGEfk7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 124px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 551px;
+  width: auto;
+}
+
+.my-devices-new-user .progress-MGEfk7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 670px;
+  width: auto;
+}
+
+.my-devices-new-user .how-to-MGEfk7 {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 789px;
+  width: auto;
+}

@@ -1,0 +1,682 @@
+/* screen - my-tasks-completed-task */
+
+.my-tasks-completed-task {
+  background-color: var(--white);
+  border: 1px none;
+  height: 2029px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1500px;
+}
+
+.my-tasks-completed-task .union-9xOTGO {
+  background-color: transparent;
+  height: 1358px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+
+.my-tasks-completed-task .logo-9xOTGO {
+  background-color: transparent;
+  border: 1px none;
+  cursor: pointer;
+  height: 65px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 140px;
+}
+
+.my-tasks-completed-task .logo-3TpDlx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.my-tasks-completed-task .blog-9xOTGO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-tasks-completed-task .faq-9xOTGO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 505px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: auto;
+}
+
+.my-tasks-completed-task .icon-settings-9xOTGO {
+  background-color: transparent;
+  height: 26px;
+  left: 1198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 25px;
+}
+
+.my-tasks-completed-task .vector-9xOTGO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 1268px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 55px;
+}
+
+.my-tasks-completed-task .tasks-9xOTGO {
+  background-color: transparent;
+  height: auto;
+  left: 120px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 551px;
+  width: auto;
+}
+
+.my-tasks-completed-task .tasks-E1cg5E {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 172px;
+  width: auto;
+}
+
+.my-tasks-completed-task .lorem-ipsum-dolor-si-9xOTGO {
+  background-color: transparent;
+  height: auto;
+  left: 479px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: line-through;
+  top: 502px;
+  white-space: nowrap;
+  width: 800px;
+}
+
+.my-tasks-completed-task .lorem-ipsum-dolor-si-E1cg5E {
+  background-color: transparent;
+  height: auto;
+  left: 479px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: line-through;
+  top: 816px;
+  white-space: nowrap;
+  width: 800px;
+}
+
+.my-tasks-completed-task .lorem-ipsum-dolor-si-gxRv2q {
+  background-color: transparent;
+  height: auto;
+  left: 479px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: line-through;
+  top: 580px;
+  white-space: nowrap;
+  width: 800px;
+}
+
+.my-tasks-completed-task .lorem-ipsum-dolor-si-7XuRXM {
+  background-color: transparent;
+  height: auto;
+  left: 479px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: line-through;
+  top: 894px;
+  white-space: nowrap;
+  width: 800px;
+}
+
+.my-tasks-completed-task .lorem-ipsum-dolor-si-Eyx4v9 {
+  background-color: transparent;
+  height: auto;
+  left: 479px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: line-through;
+  top: 658px;
+  white-space: nowrap;
+  width: 800px;
+}
+
+.my-tasks-completed-task .lorem-ipsum-dolor-si-myUFlN {
+  background-color: transparent;
+  height: auto;
+  left: 479px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: line-through;
+  top: 972px;
+  white-space: nowrap;
+  width: 800px;
+}
+
+.my-tasks-completed-task .lorem-ipsum-dolor-si-Ut684J {
+  background-color: transparent;
+  height: auto;
+  left: 479px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: line-through;
+  top: 738px;
+  white-space: nowrap;
+  width: 800px;
+}
+
+.my-tasks-completed-task .lorem-ipsum-dolor-si-bHUskj {
+  background-color: transparent;
+  height: auto;
+  left: 479px;
+  letter-spacing: 0px;
+  line-height: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: line-through;
+  top: 1052px;
+  white-space: nowrap;
+  width: 800px;
+}
+
+.my-tasks-completed-task .vector-E1cg5E {
+  background-color: transparent;
+  height: 48px;
+  left: 407px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 504px;
+  width: 48px;
+}
+
+.my-tasks-completed-task .vector-gxRv2q {
+  background-color: transparent;
+  height: 48px;
+  left: 407px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 818px;
+  width: 48px;
+}
+
+.my-tasks-completed-task .vector-7XuRXM {
+  background-color: transparent;
+  height: 48px;
+  left: 407px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 582px;
+  width: 48px;
+}
+
+.my-tasks-completed-task .vector-Eyx4v9 {
+  background-color: transparent;
+  height: 48px;
+  left: 407px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 896px;
+  width: 48px;
+}
+
+.my-tasks-completed-task .vector-myUFlN {
+  background-color: transparent;
+  height: 48px;
+  left: 407px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 660px;
+  width: 48px;
+}
+
+.my-tasks-completed-task .vector-Ut684J {
+  background-color: transparent;
+  height: 48px;
+  left: 407px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 974px;
+  width: 48px;
+}
+
+.my-tasks-completed-task .vector-bHUskj {
+  background-color: transparent;
+  height: 48px;
+  left: 407px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 740px;
+  width: 48px;
+}
+
+.my-tasks-completed-task .vector-32gipe {
+  background-color: transparent;
+  height: 48px;
+  left: 407px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1054px;
+  width: 48px;
+}
+
+.my-tasks-completed-task .footer-9xOTGO {
+  background-color: transparent;
+  border: 1px none;
+  height: 421px;
+  left: 0px;
+  position: absolute;
+  top: 1608px;
+  width: 1500px;
+}
+
+.my-tasks-completed-task .rectangle-4-6XNOwp {
+  background-color: var(--orangestandard);
+  border: 1px none;
+  box-shadow: 0px -4px 7px 2px #00000040;
+  height: 421px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+
+.my-tasks-completed-task .logo-6XNOwp {
+  background-color: transparent;
+  border: 1px none;
+  height: 65px;
+  left: 188px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 143px;
+  width: 140px;
+}
+
+.my-tasks-completed-task .logo-0521wX {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.my-tasks-completed-task .save-resources-with-our-web-app-6XNOwp {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 165px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 129px;
+  width: auto;
+}
+
+.my-tasks-completed-task .how-it-works-6XNOwp {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-completed-task .about-us-6XNOwp {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-completed-task .blog-6XNOwp {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 175px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-completed-task .privacy-6XNOwp {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 215px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-completed-task .terms-of-service-6XNOwp {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-completed-task .copyright2022-our-ap-6XNOwp {
+  background-color: transparent;
+  height: auto;
+  left: 978px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 375px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-completed-task .templates-6XNOwp {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 172px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-completed-task .features-6XNOwp {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-completed-task .company-6XNOwp {
+  background-color: transparent;
+  height: auto;
+  left: 1034px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.my-tasks-completed-task .icon-twitter-6XNOwp {
+  background-color: transparent;
+  height: 36px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 248px;
+  width: 36px;
+}
+
+.my-tasks-completed-task .icon-instagram-6XNOwp {
+  background-color: transparent;
+  height: 33px;
+  left: 290px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 252px;
+  width: 33px;
+}
+
+.my-tasks-completed-task .youtube-6XNOwp {
+  background-color: transparent;
+  height: 29px;
+  left: 348px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 253px;
+  width: 41px;
+}
+
+.my-tasks-completed-task .icon-facebook-6XNOwp {
+  background-color: transparent;
+  height: 36px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 36px;
+}
+
+.my-tasks-completed-task .my-tasks-9xOTGO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 423px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 325px;
+  width: auto;
+}
+
+.my-tasks-completed-task .group-16-9xOTGO {
+  background-color: transparent;
+  height: 86px;
+  left: 712px;
+  position: absolute;
+  top: 316px;
+  width: 286px;
+}
+
+.my-tasks-completed-task .rectangle-47-Cx9lxp {
+  background-color: var(--orangelight-4);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 86px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 284px;
+}
+
+.my-tasks-completed-task .completed-Cx9lxp {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: auto;
+}
+
+.my-tasks-completed-task .someday-9xOTGO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1080px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 325px;
+  width: auto;
+}
+
+.my-tasks-completed-task .dashboard-9xOTGO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: auto;
+}
+
+.my-tasks-completed-task .my-devices-9xOTGO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 76px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 284px;
+  width: auto;
+}
+
+.my-tasks-completed-task .schedule-9xOTGO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 93px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 408px;
+  width: auto;
+}
+
+.my-tasks-completed-task .progress-9xOTGO {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 682px;
+  width: auto;
+}
+
+.my-tasks-completed-task .how-to-9xOTGO {
+  background-color: transparent;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 801px;
+  width: auto;
+}

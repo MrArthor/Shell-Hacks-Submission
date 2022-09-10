@@ -1,0 +1,12 @@
+/* screen - frame */
+
+.frame {
+  background-color: transparent;
+  border: 1px none;
+  height: 24px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 24px;
+}
